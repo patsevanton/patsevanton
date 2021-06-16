@@ -6,7 +6,6 @@ jobs:
       - name: GitHub metrics as SVG image
         uses: lowlighter/metrics@v3.7
         with:
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
           config_timezone: Asia/Omsk
           plugin_achievements: 'yes'
           plugin_achievements_limit: 0
@@ -20,7 +19,7 @@ jobs:
           plugin_notable_filter: stars:>1000
           plugin_notable_repositories: 'yes'
           plugin_stargazers: 'yes'
-          token: ${{ secrets.PAT }}
+          token: ${{ secrets.METRICS_TOKEN }}
 name: Metrics
 'on':
   push:
