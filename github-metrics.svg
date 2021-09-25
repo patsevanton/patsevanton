@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1894" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2120" class="">
     <defs>
         <style/>
     </defs>
@@ -1066,20 +1066,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1104,7 +1104,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                         </svg>
-                        1346 Commits
+                        1351 Commits
                     </div>
                     <div class="field">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1122,13 +1122,13 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
                         </svg>
-                        136 Issues opened
+                        137 Issues opened
                     </div>
                     <div class="field">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                         </svg>
-                        889 issue comments
+                        893 issue comments
                     </div>
                 </section>
                 <section>
@@ -1161,7 +1161,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                         </svg>
-                        Starred 572 repositories
+                        Starred 573 repositories
                     </div>
                     <div class="field">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1202,7 +1202,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                             </svg>
-                            70 MB used
+                            70.7 MB used
                         </div>
                     </section>
                     <section>
@@ -1250,8 +1250,8 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="66" height="8" fill="#d73a49"/>
-                            <rect mask="url(#issues-bar)" x="66" y="0" width="154" height="8" fill="#28a745"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="59.99999999999999" height="8" fill="#d73a49"/>
+                            <rect mask="url(#issues-bar)" x="59.99999999999999" y="0" width="160" height="8" fill="#28a745"/>
                         </svg>
                         <div class="field horizontal fill-width">
                             <div class="field center">
@@ -1267,7 +1267,7 @@
                                     <path fill="#28a745" fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
                                 </svg>
                                 <span class="no-wrap">
-                                    7 Open
+                                    8 Open
                                 </span>
                             </div>
                         </div>
@@ -1556,11 +1556,173 @@
                     </svg>
                     Stargazers over the last two weeks
                 </h2>
-                <div class="field error">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                        <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
-                    </svg>
-                    An error occured
+                <div class="row margin-bottom">
+                    <section class="column chart">
+                        <h3>
+                            Total stargazers
+                        </h3>
+                        <div class="chart-bars">
+                            <div class="entry">
+                                <span class="value">
+                                    125
+                                </span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                12
+                                <div class="bottom">
+                                    Sep.
+                                </div>
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                13
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                14
+                            </div>
+                            <div class="entry">
+                                <span class="value">
+                                    126
+                                </span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                15
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                16
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                17
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                18
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                19
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                20
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                21
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                22
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                23
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                24
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                25
+                            </div>
+                        </div>
+                    </section>
+                    <section class="column chart">
+                        <h3>
+                            New stargazers per day
+                        </h3>
+                        <div class="chart-bars">
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                12
+                                <div class="bottom">
+                                    Sep.
+                                </div>
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                13
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                14
+                            </div>
+                            <div class="entry">
+                                <span class="value">
+                                    +1
+                                </span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                15
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                16
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                17
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                18
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                19
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                20
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                21
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                22
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                23
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                24
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                25
+                            </div>
+                        </div>
+                    </section>
                 </div>
             </section>
             <section>
@@ -1576,29 +1738,25 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">
-                                            patsevanton/docker-nexus
+                                        Commented on
+                                        <span class="issue">
+                                            #14 Give unique image name
                                         </span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>
-                                        on branch
-                                        <span class="code">
-                                            master
+                                        opened by arey in
+                                        <span class="repo">
+                                            spring-petclinic/spring-petclinic-cloud
                                         </span>
                                     </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #fa3158a
-                                        </span>
-                                        <span class="message">
-                                            Install openjdk17-jdk
-                                        </span>
+                                    <div class="comment">
+                                        Hello!
+Where i can ask question: What is repository ready for install to kubernetes? Thanks!
                                     </div>
                                 </div>
                             </section>
@@ -1607,29 +1765,99 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">
-                                            patsevanton/docker-nexus
+                                        Commented on
+                                        <span class="issue">
+                                            #9 vmauth.service: main process exited, code=exited, status=255/n/a
                                         </span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>
-                                        on branch
-                                        <span class="code">
-                                            master
+                                        opened by patsevanton in
+                                        <span class="repo">
+                                            patsevanton/victoriametrics-rpm
                                         </span>
                                     </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #8ac741e
-                                        </span>
-                                        <span class="message">
-                                            Install openjdk17-jdk
-                                        </span>
+                                    <div class="comment">
+                                        ```
+[victoriametrics@centos7-1 ~]$ cat /etc/victoriametrics/vmauth/config.yml
+# # https://docs.victoriametrics.com/vmauth.html#auth-config
+# # Arbitrary number of usernames may be put here.
+# # Usernames must be unique.
+
+# users:
+#   # Requests with the 'Authorization: Bearer XXXX' header are proxied to http://localhost:8428 .
+#   # For example, http://vmauth:8427/api/v1/query is proxied to http://localhost:8428/api/v1/query
+# - bearer_token: "XXXX"
+#   url_prefix: "http://localhost:8428"
+
+#   # The user for querying local single-node VictoriaMetrics.
+#   # All the requests to http://vmauth:8427 with the given Basic Auth (username:password)
+#   # will be proxied to http://localhost:8428 .
+#   # For example, http://vmauth:8427/api/v1/query is proxied to http://localhost:8428/api/v1/query
+# - username: "local-single-node"
+#   password: "***"
+#   url_prefix: "http://localhost:8428"
+
+#   # The user for querying local single-node VictoriaMetrics with extra_label team=dev.
+#   # All the requests to http://vmauth:8427 with the given Basic Auth (username:password)
+#   # will be routed to http://localhost:8428 with extra_label=team=dev query arg.
+#   # For example, http://vmauth:8427/api/v1/query is routed to http://localhost:8428/api/v1/query?extra_label=team=dev
+# - username: "local-single-node"
+#   password: "***"
+#   url_prefix: "http://localhost:8428?extra_label=team=dev"
+
+#   # The user for querying account 123 in VictoriaMetrics cluster
+#   # See https://docs.victoriametrics.com/Cluster-VictoriaMetrics.html#url-format
+#   # All the requests to http://vmauth:8427 with the given Basic Auth (username:password)
+#   # will be load-balanced among http://vmselect1:8481/select/123/prometheus and http://vmselect2:8481/select/123/prometheus
+#   # For example, http://vmauth:8427/api/v1/query is proxied to the following urls in a round-robin manner:
+#   #   - http://vmselect1:8481/select/123/prometheus/api/v1/select
+#   #   - http://vmselect2:8481/select/123/prometheus/api/v1/select
+# - username: "cluster-select-account-123"
+#   password: "***"
+#   url_prefix:
+#   - "http://vmselect1:8481/select/123/prometheus"
+#   - "http://vmselect2:8481/select/123/prometheus"
+
+#   # The user for inserting Prometheus data into VictoriaMetrics cluster under account 42
+#   # See https://docs.victoriametrics.com/Cluster-VictoriaMetrics.html#url-format
+#   # All the requests to http://vmauth:8427 with the given Basic Auth (username:password)
+#   # will be load-balanced between http://vminsert1:8480/insert/42/prometheus and http://vminsert2:8480/insert/42/prometheus
+#   # For example, http://vmauth:8427/api/v1/write is proxied to the following urls in a round-robin manner:
+#   #   - http://vminsert1:8480/insert/42/prometheus/api/v1/write
+#   #   - http://vminsert2:8480/insert/42/prometheus/api/v1/write
+# - username: "cluster-insert-account-42"
+#   password: "***"
+#   url_prefix:
+#   - "http://vminsert1:8480/insert/42/prometheus"
+#   - "http://vminsert2:8480/insert/42/prometheus"
+
+
+#   # A single user for querying and inserting data:
+#   # - Requests to http://vmauth:8427/api/v1/query, http://vmauth:8427/api/v1/query_range
+#   #   and http://vmauth:8427/api/v1/label/&lt;label_name&gt;/values are proxied to the following urls in a round-robin manner:
+#   #     - http://vmselect1:8481/select/42/prometheus
+#   #     - http://vmselect2:8481/select/42/prometheus
+#   #   For example, http://vmauth:8427/api/v1/query is proxied to http://vmselect1:8480/select/42/prometheus/api/v1/query
+#   #   or to http://vmselect2:8480/select/42/prometheus/api/v1/query .
+#   # - Requests to http://vmauth:8427/api/v1/write are proxied to http://vminsert:8480/insert/42/prometheus/api/v1/write
+# - username: "foobar"
+#   url_map:
+#   - src_paths:
+#     - "/api/v1/query"
+#     - "/api/v1/query_range"
+#     - "/api/v1/label/[^/]+/values"
+#     url_prefix:
+#     - "http://vmselect1:8481/select/42/prometheus"
+#     - "http://vmselect2:8481/select/42/prometheus"
+#   - src_paths: ["/api/v1/write"]
+#     url_prefix: "http://vminsert:8480/insert/42/prometheus"
+[victoriametrics@centos7-1 ~]$ 
+```
                                     </div>
                                 </div>
                             </section>
@@ -1638,29 +1866,63 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">
-                                            patsevanton/docker-nexus
+                                        Commented on
+                                        <span class="issue">
+                                            #9 vmauth.service: main process exited, code=exited, status=255/n/a
                                         </span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>
-                                        on branch
-                                        <span class="code">
-                                            master
+                                        opened by patsevanton in
+                                        <span class="repo">
+                                            patsevanton/victoriametrics-rpm
                                         </span>
                                     </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #62bc13d
-                                        </span>
-                                        <span class="message">
-                                            apk add openjdk17-jdk
-                                        </span>
+                                    <div class="comment">
+                                        ```
+[victoriametrics@centos7-1 ~]$ vmauth-prod -auth.config /etc/victoriametrics/vmauth/config.yml
+2021-09-24T10:46:43.665Z        info    VictoriaMetrics/lib/logger/flag.go:12   build version: vmauth-20210920-122440-tags-v1.66.0-0-g76811c2f6
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:13   command line flags
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "auth.config"="/etc/victoriametrics/vmauth/config.yml" (is_set=true)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "enableTCP6"="false" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "envflag.enable"="false" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "envflag.prefix"="" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "fs.disableMmap"="false" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "http.connTimeout"="2m0s" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "http.disableResponseCompression"="false" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "http.idleConnTimeout"="1m0s" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "http.maxGracefulShutdownDuration"="7s" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "http.pathPrefix"="" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "http.shutdownDelay"="0s" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "httpAuth.password"="secret" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "httpAuth.username"="" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "httpListenAddr"=":8427" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "logInvalidAuthTokens"="secret" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "loggerDisableTimestamps"="false" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "loggerErrorsPerSecondLimit"="0" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "loggerFormat"="default" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "loggerLevel"="INFO" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "loggerOutput"="stderr" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "loggerTimezone"="UTC" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "loggerWarnsPerSecondLimit"="0" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "maxIdleConnsPerBackend"="100" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "memory.allowedBytes"="0" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "memory.allowedPercent"="60" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "metricsAuthKey"="secret" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "pprofAuthKey"="secret" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "reloadAuthKey"="secret" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "tls"="false" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "tlsCertFile"="" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "tlsKeyFile"="secret" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/lib/logger/flag.go:28   flag "version"="false" (is_set=false)
+2021-09-24T10:46:43.666Z        info    VictoriaMetrics/app/vmauth/main.go:36   starting vmauth at ":8427"...
+2021-09-24T10:46:43.666Z        fatal   VictoriaMetrics/app/vmauth/auth_config.go:171   cannot load auth config from `-auth.config=/etc/victoriametrics/vmauth/config.yml`: cannot parse "/etc/victoriametrics/vmauth/config.yml": `users` section cannot be empty in AuthConfig
+[victoriametrics@centos7-1 ~]$ 
+```
                                     </div>
                                 </div>
                             </section>
@@ -1669,29 +1931,30 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">
-                                            patsevanton/docker-nexus
+                                        Commented on
+                                        <span class="issue">
+                                            #9 vmauth.service: main process exited, code=exited, status=255/n/a
                                         </span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>
-                                        on branch
-                                        <span class="code">
-                                            master
+                                        opened by patsevanton in
+                                        <span class="repo">
+                                            patsevanton/victoriametrics-rpm
                                         </span>
                                     </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #a396a56
-                                        </span>
-                                        <span class="message">
-                                            apk add  musl-dev
-                                        </span>
+                                    <div class="comment">
+                                        ```
+[victoriametrics@centos7-1 ~]$ cat /etc/victoriametrics/vmauth/vmauth.conf
+# https://docs.victoriametrics.com/vmauth.html
+#
+
+ARGS="-auth.config=/etc/victoriametrics/vmauth/config.yml"
+```
                                     </div>
                                 </div>
                             </section>
@@ -1700,29 +1963,51 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">
-                                            patsevanton/docker-nexus
+                                        Commented on
+                                        <span class="issue">
+                                            #9 vmauth.service: main process exited, code=exited, status=255/n/a
                                         </span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>
-                                        on branch
-                                        <span class="code">
-                                            master
+                                        opened by patsevanton in
+                                        <span class="repo">
+                                            patsevanton/victoriametrics-rpm
                                         </span>
                                     </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #6c33bb4
-                                        </span>
-                                        <span class="message">
-                                            ln -s /lib/libc.musl-x86_64.so.1 /lib/ld-linux-x86-64.so.2
-                                        </span>
+                                    <div class="comment">
+                                        ```
+[root@centos7-1 ~]# systemctl cat vmauth
+# /usr/lib/systemd/system/vmauth.service
+[Unit]
+Description=vmauth is a simple auth proxy, router and load balancer for VictoriaMetrics. 
+# https://docs.victoriametrics.com/vmauth.html
+After=network.target
+
+[Service]
+Type=simple
+User=victoriametrics
+Group=victoriametrics
+StartLimitBurst=5
+StartLimitInterval=0
+Restart=on-failure
+RestartSec=1
+EnvironmentFile=-/etc/victoriametrics/vmauth/vmauth.conf
+ExecStart=/usr/bin/vmauth-prod $ARGS
+ExecStop=/bin/kill -s SIGTERM $MAINPID
+ExecReload=/bin/kill -HUP $MAINPID
+# See docs https://docs.victoriametrics.com/Single-server-VictoriaMetrics.html#tuning
+LimitNOFILE=1048576
+LimitNPROC=1048576
+LimitCORE=infinity
+
+[Install]
+WantedBy=multi-user.target
+```
                                     </div>
                                 </div>
                             </section>
@@ -1814,7 +2099,7 @@
                                 <div class="title">
                                     Super developer
                                     <span class="gh">
-                                        ranked 33.5k out of 77m users
+                                        ranked 33.6k out of 77m users
                                     </span>
                                 </div>
                                 <div class="text">
@@ -1865,7 +2150,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="50.92402881763698 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="51.00876733828007 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1938,7 +2223,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="22.319999999999997 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="22.63 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1957,7 +2242,7 @@
                                     Super stargazer
                                 </div>
                                 <div class="text">
-                                    Starred 572 repositories
+                                    Starred 573 repositories
                                 </div>
                             </div>
                         </div>
@@ -2110,7 +2395,7 @@
                                 <div class="title">
                                     Inspirationer
                                     <span class="gh">
-                                        ranked 289k out of 238m repositories
+                                        ranked 290k out of 238m repositories
                                     </span>
                                 </div>
                                 <div class="text">
@@ -2165,7 +2450,7 @@
                                 <div class="title">
                                     Influencer
                                     <span class="gh">
-                                        ranked 226k out of 77m users
+                                        ranked 227k out of 77m users
                                     </span>
                                 </div>
                                 <div class="text">
@@ -2265,7 +2550,7 @@
                     These metrics do not include all private contributions, timezone Asia/Omsk
                 </span>
                 <span>
-                    Last updated Fri, 24 Sep 2021 01:01:18 GMT with lowlighter/metrics@3.7.0
+                    Last updated Sat, 25 Sep 2021 00:58:41 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
