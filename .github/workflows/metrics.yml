@@ -4,7 +4,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: GitHub metrics as SVG image
-        uses: lowlighter/metrics@v3.7
+        uses: lowlighter/metrics@v3.18
         with:
           config_timezone: Asia/Omsk
           plugin_achievements: 'yes'
