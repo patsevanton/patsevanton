@@ -32,17 +32,17 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5818 Commits
+                            5823 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -415,14 +415,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="175.1435317033669" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="175.1435317033669" y="0" width="123.31300662874902" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="298.45653833211594" y="0" width="72.52699512213806" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="370.983533454254" y="0" width="27.40400898423928" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="398.38754243849326" y="0" width="26.597342481718275" height="8" fill="#a52a22"/>
-                    <rect mask="url(#languages-bar)" x="424.9848849202115" y="0" width="16.893433899909446" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="441.87831882012097" y="0" width="9.452218565421623" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="451.3305373855426" y="0" width="8.669462614457402" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="174.5285523844315" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="174.5285523844315" y="0" width="122.88001919213123" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="297.40857157656274" y="0" width="73.88752429685647" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="371.2960958734192" y="0" width="27.307785626075127" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="398.6038814994943" y="0" width="26.503951561677894" height="8" fill="#a52a22"/>
+                    <rect mask="url(#languages-bar)" x="425.10783306117224" y="0" width="16.83411619417857" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="441.9419492553508" y="0" width="9.419029107156975" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="451.36097836250775" y="0" width="8.639021637492265" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -435,7 +435,7 @@
                             </div>
                             <small>
                                 <div>139 kB</div>
-                                <div>38.07%</div>
+                                <div>37.94%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -446,8 +446,8 @@
                                 HCL
                             </div>
                             <small>
-                                <div>57.6 kB</div>
-                                <div>15.77%</div>
+                                <div>58.9 kB</div>
+                                <div>16.06%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -459,7 +459,7 @@
                             </div>
                             <small>
                                 <div>21.1 kB</div>
-                                <div>5.78%</div>
+                                <div>5.76%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -485,7 +485,7 @@
                             </div>
                             <small>
                                 <div>97.9 kB</div>
-                                <div>26.81%</div>
+                                <div>26.71%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -497,7 +497,7 @@
                             </div>
                             <small>
                                 <div>21.7 kB</div>
-                                <div>5.96%</div>
+                                <div>5.94%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -509,7 +509,7 @@
                             </div>
                             <small>
                                 <div>13.4 kB</div>
-                                <div>3.67%</div>
+                                <div>3.66%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -563,13 +563,8 @@
                             <div class="entry">
                                 <span class="value">143</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                22
-                                <div class="bottom">Feb.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 23
+                                <div class="bottom">Feb.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -631,6 +626,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 7
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                8
                             </div>
                         </div>
                     </section>
@@ -640,13 +640,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                22
-                                <div class="bottom">Feb.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 23
+                                <div class="bottom">Feb.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -708,6 +703,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 7
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                8
                             </div>
                         </div>
                     </section>
@@ -736,8 +736,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6ce7771</div>
-                                        <div class="message">08-run-2instances-target-group-lb nat = true</div>
+                                        <div class="sha">#89de873</div>
+                                        <div class="message">links 09-simple-run-instances-custom-vpc-subnet</div>
                                     </div>
                                 </div>
                             </section>
@@ -756,8 +756,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2f0cee0</div>
-                                        <div class="message">08-run-2instances-target-group-lb</div>
+                                        <div class="sha">#7c43fe7</div>
+                                        <div class="message">Add hostname</div>
                                     </div>
                                 </div>
                             </section>
@@ -776,8 +776,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2f62753</div>
-                                        <div class="message">address   = yandex_compute_instance.vm-1.network_interface.0.ip_address</div>
+                                        <div class="sha">#1c095e0</div>
+                                        <div class="message">09-simple-run-instances-custom-vpc-subnet</div>
                                     </div>
                                 </div>
                             </section>
@@ -796,8 +796,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#34169d1</div>
-                                        <div class="message">instances    = "2"</div>
+                                        <div class="sha">#e6af4b4</div>
+                                        <div class="message">cpu memory ubuntu-2004-lts</div>
                                     </div>
                                 </div>
                             </section>
@@ -816,8 +816,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0a77eea</div>
-                                        <div class="message">08-run-2instances-target-group-lb</div>
+                                        <div class="sha">#0889d34</div>
+                                        <div class="message">Create virtual machine (instances). SSH created by cloud-init.</div>
                                     </div>
                                 </div>
                             </section>
@@ -955,7 +955,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.04243668720055 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1194,7 +1194,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 292k out of 286m repositories</span>
+                                    <span class="gh">ranked 292k out of 287m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 32 times</div>
                             </div>
@@ -1317,7 +1317,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 313k out of 286m repositories</span>
+                                    <span class="gh">ranked 313k out of 287m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 78 stars</div>
                             </div>
@@ -1369,7 +1369,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Mar 2022, 07:09:33 (timezone Asia/Omsk) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 8 Mar 2022, 07:07:29 (timezone Asia/Omsk) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
