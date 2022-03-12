@@ -30,18 +30,18 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 189 repositories
+                            Contributed to 187 repositories
                         </div>
                     </section>
                 </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5870 Commits
+                            5883 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -415,14 +415,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="171.17749292776966" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="171.17749292776966" y="0" width="120.5206444954251" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="291.6981374231948" y="0" width="81.30112995256658" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="372.9992673757614" y="0" width="26.78345873507345" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="399.78272611083486" y="0" width="25.995058797105866" height="8" fill="#a52a22"/>
-                    <rect mask="url(#languages-bar)" x="425.7777849079407" y="0" width="16.51089043256916" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="442.2886753405099" y="0" width="9.238177744266011" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="451.5268530847759" y="0" width="8.473146915224147" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="170.67413843204898" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="170.67413843204898" y="0" width="120.40783682261579" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="291.08197525466477" y="0" width="82.17312137264364" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="373.25509662730843" y="0" width="26.70470086723309" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="399.95979749454153" y="0" width="25.91861925188149" height="8" fill="#a52a22"/>
+                    <rect mask="url(#languages-bar)" x="425.878416746423" y="0" width="16.462339476567646" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="442.3407562229907" y="0" width="9.211012500633162" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="451.55176872362387" y="0" width="8.44823127637623" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -435,7 +435,7 @@
                             </div>
                             <small>
                                 <div>139 kB</div>
-                                <div>37.21%</div>
+                                <div>37.1%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -446,8 +446,8 @@
                                 HCL
                             </div>
                             <small>
-                                <div>66.1 kB</div>
-                                <div>17.67%</div>
+                                <div>67 kB</div>
+                                <div>17.86%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -459,7 +459,7 @@
                             </div>
                             <small>
                                 <div>21.1 kB</div>
-                                <div>5.65%</div>
+                                <div>5.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -471,7 +471,7 @@
                             </div>
                             <small>
                                 <div>7.51 kB</div>
-                                <div>2.01%</div>
+                                <div>2%</div>
                             </small>
                         </div>
                     </section>
@@ -484,8 +484,8 @@
                                 Shell
                             </div>
                             <small>
-                                <div>97.9 kB</div>
-                                <div>26.2%</div>
+                                <div>98.1 kB</div>
+                                <div>26.18%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -497,7 +497,7 @@
                             </div>
                             <small>
                                 <div>21.7 kB</div>
-                                <div>5.82%</div>
+                                <div>5.81%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -509,7 +509,7 @@
                             </div>
                             <small>
                                 <div>13.4 kB</div>
-                                <div>3.59%</div>
+                                <div>3.58%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -563,13 +563,8 @@
                             <div class="entry">
                                 <span class="value">143</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                26
-                                <div class="bottom">Feb.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 27
+                                <div class="bottom">Feb.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -631,6 +626,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 11
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                12
                             </div>
                         </div>
                     </section>
@@ -640,13 +640,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                26
-                                <div class="bottom">Feb.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 27
+                                <div class="bottom">Feb.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -708,6 +703,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 11
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                12
                             </div>
                         </div>
                     </section>
@@ -736,8 +736,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f92c957</div>
-                                        <div class="message">14-provisioner-active-directory</div>
+                                        <div class="sha">#88b3c59</div>
+                                        <div class="message">Add active_directory_install.sh</div>
                                     </div>
                                 </div>
                             </section>
@@ -756,8 +756,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5481da7</div>
-                                        <div class="message">13-create-s3-by-service-account</div>
+                                        <div class="sha">#15134c6</div>
+                                        <div class="message">jq remove brackets</div>
                                     </div>
                                 </div>
                             </section>
@@ -776,8 +776,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3796ae7</div>
-                                        <div class="message">yc compute instance delete second-instance</div>
+                                        <div class="sha">#8c9d2ef</div>
+                                        <div class="message">Use ConfigureRemotingForAnsible.ps1</div>
                                     </div>
                                 </div>
                             </section>
@@ -796,8 +796,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#93d69c0</div>
-                                        <div class="message">11-run-dynamic-target-group</div>
+                                        <div class="sha">#40fd135</div>
+                                        <div class="message">Write-Host "Enable HTTPS in WinRM"</div>
                                     </div>
                                 </div>
                             </section>
@@ -816,8 +816,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#59e98aa</div>
-                                        <div class="message">11-run-dynamic-target-group</div>
+                                        <div class="sha">#35f7f81</div>
+                                        <div class="message">Remove  depends_on data.template_file.userdata_win</div>
                                     </div>
                                 </div>
                             </section>
@@ -955,7 +955,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.169746748802186 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.212183436002736 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1194,7 +1194,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 296k out of 287m repositories</span>
+                                    <span class="gh">ranked 296k out of 288m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 32 times</div>
                             </div>
@@ -1246,7 +1246,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 189k out of 86m users</span>
+                                    <span class="gh">ranked 190k out of 86m users</span>
                                 </div>
                                 <div class="text">Followed by 40 users</div>
                             </div>
@@ -1317,7 +1317,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 313k out of 287m repositories</span>
+                                    <span class="gh">ranked 313k out of 288m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 78 stars</div>
                             </div>
@@ -1369,7 +1369,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Mar 2022, 07:14:31 (timezone Asia/Omsk) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 12 Mar 2022, 07:05:44 (timezone Asia/Omsk) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
