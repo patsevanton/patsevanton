@@ -30,19 +30,19 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            6604 Commits
+                            6616 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                     </svg>
-                                    86 Forkers
+                                    85 Forkers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -415,14 +415,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="174.49128089323798" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="174.49128089323798" y="0" width="101.30284782335968" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="275.79412871659764" y="0" width="90.58211014929118" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="366.37623886588887" y="0" width="34.404089825617866" height="8" fill="#f0c040"/>
-                    <rect mask="url(#languages-bar)" x="400.78032869150667" y="0" width="20.164973027223688" height="8" fill="#a52a22"/>
-                    <rect mask="url(#languages-bar)" x="420.9453017187304" y="0" width="14.512608204742191" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="435.4579099234726" y="0" width="13.659515744574081" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="449.1174256680467" y="0" width="10.88257433195333" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="176.48442032603035" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="176.48442032603035" y="0" width="101.25476619020505" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="277.7391865162354" y="0" width="89.62563987705725" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="367.3648263932927" y="0" width="34.04081181070703" height="8" fill="#f0c040"/>
+                    <rect mask="url(#languages-bar)" x="401.4056382039997" y="0" width="19.952048011355203" height="8" fill="#a52a22"/>
+                    <rect mask="url(#languages-bar)" x="421.3576862153549" y="0" width="14.359367368361402" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="435.7170535837163" y="0" width="13.515282841175566" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="449.23233642489186" y="0" width="10.767663575108141" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -434,8 +434,8 @@
                                 HCL
                             </div>
                             <small>
-                                <div>278 kB</div>
-                                <div>37.93%</div>
+                                <div>284 kB</div>
+                                <div>38.37%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -447,7 +447,7 @@
                             </div>
                             <small>
                                 <div>144 kB</div>
-                                <div>19.69%</div>
+                                <div>19.48%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -459,7 +459,7 @@
                             </div>
                             <small>
                                 <div>32.1 kB</div>
-                                <div>4.38%</div>
+                                <div>4.34%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -471,7 +471,7 @@
                             </div>
                             <small>
                                 <div>21.7 kB</div>
-                                <div>2.97%</div>
+                                <div>2.94%</div>
                             </small>
                         </div>
                     </section>
@@ -484,8 +484,8 @@
                                 Shell
                             </div>
                             <small>
-                                <div>161 kB</div>
-                                <div>22.02%</div>
+                                <div>163 kB</div>
+                                <div>22.01%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -497,7 +497,7 @@
                             </div>
                             <small>
                                 <div>54.8 kB</div>
-                                <div>7.48%</div>
+                                <div>7.4%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -509,7 +509,7 @@
                             </div>
                             <small>
                                 <div>23.1 kB</div>
-                                <div>3.15%</div>
+                                <div>3.12%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -521,7 +521,7 @@
                             </div>
                             <small>
                                 <div>17.3 kB</div>
-                                <div>2.37%</div>
+                                <div>2.34%</div>
                             </small>
                         </div>
                     </section>
@@ -559,13 +559,8 @@
                             <div class="entry">
                                 <span class="value">164</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                26
-                                <div class="bottom">July</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 27
+                                <div class="bottom">July</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -628,6 +623,11 @@
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 8
                             </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                9
+                            </div>
                         </div>
                     </section>
                     <section class="column chart">
@@ -636,13 +636,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                26
-                                <div class="bottom">July</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 27
+                                <div class="bottom">July</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -705,6 +700,11 @@
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 8
                             </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                9
+                            </div>
                         </div>
                     </section>
                 </div>
@@ -732,8 +732,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1587b4a</div>
-                                        <div class="message">roles         = [ "mdbDbAdmin" ]</div>
+                                        <div class="sha">#dc84542</div>
+                                        <div class="message">pip3 install iso8601 ydb yandexcloud</div>
                                     </div>
                                 </div>
                             </section>
@@ -752,8 +752,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#be74c71</div>
-                                        <div class="message">add mongodb-client to terraform mongo</div>
+                                        <div class="sha">#5545dd8</div>
+                                        <div class="message">sa-editor ydb</div>
                                     </div>
                                 </div>
                             </section>
@@ -772,8 +772,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ac26839</div>
-                                        <div class="message">add docker-compose-traefik</div>
+                                        <div class="sha">#f72e1a4</div>
+                                        <div class="message">3 yandex_vpc_subnet for ydb</div>
                                     </div>
                                 </div>
                             </section>
@@ -792,8 +792,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#40ee131</div>
-                                        <div class="message">remove var.yc_zone from terraform mongo</div>
+                                        <div class="sha">#8df10b7</div>
+                                        <div class="message">yandex_vpc_subnet.subnet-1.id ydb</div>
                                     </div>
                                 </div>
                             </section>
@@ -812,8 +812,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b4cbcc0</div>
-                                        <div class="message">resource "yandex_mdb_mongodb_cluster" "mongo"</div>
+                                        <div class="sha">#5c56885</div>
+                                        <div class="message">terraform-ydb</div>
                                     </div>
                                 </div>
                             </section>
@@ -951,7 +951,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.169746748802186 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.212183436002736 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1406,7 +1406,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Aug 2022, 07:49:08 (timezone Asia/Omsk) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 9 Aug 2022, 07:59:31 (timezone Asia/Omsk) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
