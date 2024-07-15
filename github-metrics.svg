@@ -30,20 +30,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            8026 Commits
+                            8034 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            1401 issue comments
+                            1403 issue comments
                         </div>
                     </section>
                     <section>
@@ -405,7 +405,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    30 Languages
+                    17 Languages
                 </h2>
             </section>
             <section class="column">
@@ -415,14 +415,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="253.76492363559527" height="8" fill="#844FBA"/>
-                    <rect mask="url(#languages-bar)" x="253.76492363559527" y="0" width="101.87056595356701" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="355.63548958916226" y="0" width="38.765491037014144" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="394.4009806261764" y="0" width="31.08970420777066" height="8" fill="#f0c040"/>
-                    <rect mask="url(#languages-bar)" x="425.4906848339471" y="0" width="16.3753419082688" height="8" fill="#a52a22"/>
-                    <rect mask="url(#languages-bar)" x="441.8660267422159" y="0" width="9.799374684505246" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="451.66540142672113" y="0" width="4.329977186549847" height="8" fill="#4298b8"/>
-                    <rect mask="url(#languages-bar)" x="455.995378613271" y="0" width="4.004621386729068" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="253.75887079890506" height="8" fill="#844FBA"/>
+                    <rect mask="url(#languages-bar)" x="253.75887079890506" y="0" width="101.87355577426153" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="355.63242657316664" y="0" width="38.76662877357475" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="394.39905534674136" y="0" width="31.090616666047072" height="8" fill="#f0c040"/>
+                    <rect mask="url(#languages-bar)" x="425.48967201278845" y="0" width="16.375822511627177" height="8" fill="#a52a22"/>
+                    <rect mask="url(#languages-bar)" x="441.8654945244156" y="0" width="9.799662288416648" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="451.66515681283227" y="0" width="4.330104267962206" height="8" fill="#4298b8"/>
+                    <rect mask="url(#languages-bar)" x="455.9952610807945" y="0" width="4.004738919205536" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -435,7 +435,7 @@
                             </div>
                             <small>
                                 <div>563 kB</div>
-                                <div>55.17%</div>
+                                <div>55.16%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -587,13 +587,8 @@
                             <div class="entry">
                                 <span class="value">184</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                1
-                                <div class="bottom">July</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 2
+                                <div class="bottom">July</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -654,6 +649,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 14
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                15
                             </div>
                         </div>
                     </section>
@@ -663,13 +663,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                1
-                                <div class="bottom">July</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 2
+                                <div class="bottom">July</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -730,6 +725,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 14
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                15
                             </div>
                         </div>
                     </section>
@@ -758,8 +758,28 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4783e17</div>
-                                        <div class="message">используется clickhouse operator</div>
+                                        <div class="sha">#5d38f0c</div>
+                                        <div class="message">Telegram чат по Sentry</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">terraform-yacloud-modules/terraform-yandex-kubernetes</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master_logging</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#23e8ad0</div>
+                                        <div class="message">Add support master_logging false</div>
                                     </div>
                                 </div>
                             </section>
@@ -778,8 +798,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#016005f</div>
-                                        <div class="message">Update README.md</div>
+                                        <div class="sha">#8ea3a97</div>
+                                        <div class="message">пример на python</div>
                                     </div>
                                 </div>
                             </section>
@@ -798,8 +818,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e4a4717</div>
-                                        <div class="message">установка sentry в kubernetes имеет много подводных камней</div>
+                                        <div class="sha">#17a6324</div>
+                                        <div class="message">В следующем посте будет</div>
                                     </div>
                                 </div>
                             </section>
@@ -818,28 +838,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8375301</div>
-                                        <div class="message">пунктуация в заголовке</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">patsevanton/sentry-strimzi-kafka-clickhouse-operator</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4a615ee</div>
-                                        <div class="message">Заголовок</div>
+                                        <div class="sha">#2087bfb</div>
+                                        <div class="message">set clickhouse shard to 1</div>
                                     </div>
                                 </div>
                             </section>
@@ -867,7 +867,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Jul 2024, 07:19:41 (timezone Asia/Omsk) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 15 Jul 2024, 07:16:07 (timezone Asia/Omsk) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
