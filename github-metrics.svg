@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1843" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1810" class="">
     <defs>
         <style/>
     </defs>
@@ -30,19 +30,19 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            1727 issue comments
+                            1728 issue comments
                         </div>
                     </section>
                     <section>
@@ -599,13 +599,8 @@
                             <div class="entry">
                                 <span class="value">194</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                22
-                                <div class="bottom">Dec.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 23
+                                <div class="bottom">Dec.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -668,6 +663,11 @@
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 4
                             </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                5
+                            </div>
                         </div>
                     </section>
                     <section class="column chart">
@@ -676,13 +676,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                22
-                                <div class="bottom">Dec.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 23
+                                <div class="bottom">Dec.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -745,6 +740,11 @@
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 4
                             </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                5
+                            </div>
                         </div>
                     </section>
                 </div>
@@ -758,6 +758,39 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#1640 feat: Sentry 24.11.2</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by kimxogus in <span class="repo">sentry-kubernetes/charts</span></div>
+                                    <div class="comment">@kimxogus Please remove topic snuba-metrics-summaries https://github.com/getsentry/snuba/compare/24.10.0...24.11.2</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">sentry-24-10-0</span>
+                                        in
+                                        <span class="repo">patsevanton/sentry-kubernetes-charts-fork</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1082,145 +1115,6 @@ troubleshooting of RPC Endpoints.
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1652 feat: update Sentry chart to appVersion 24.10.0 and bump Clickhouse dependency to 3.14.0</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by patsevanton in <span class="repo">sentry-kubernetes/charts</span></div>
-                                    <div class="comment">sentry 24.10.0 + clickhouse 3.14:
-``
-sentry-snuba-migrate-gzjrm snuba-migrate {"module": "snuba.migrations.operations", "event": "Failed to execute operation on StorageSetKey.EVENTS_ANALYTICS_PLATFORM, target: OperationTarget.LOCAL\nALTER TABLE eap_spans_local DROP INDEX IF EXISTS bf_attr_str_val_0, DROP INDEX IF EXISTS bf_attr_str_val_1, DROP INDEX IF EXISTS bf_attr_str_val_2, DROP INDEX IF EXISTS bf_attr_str_val_3, DROP INDEX IF EXISTS bf_attr_str_val_4, DROP INDEX IF EXISTS bf_attr_str_val_5, DROP INDEX IF EXISTS bf_attr_str_val_6, DROP INDEX IF EXISTS bf_attr_str_val_7, DROP INDEX IF EXISTS bf_attr_str_val_8, DROP INDEX IF EXISTS bf_attr_str_val_9, DROP INDEX IF EXISTS bf_attr_str_val_10, DROP INDEX IF EXISTS bf_attr_str_val_11, DROP INDEX IF EXISTS bf_attr_str_val_12, DROP INDEX IF EXISTS bf_attr_str_val_13, DROP INDEX IF EXISTS bf_attr_str_val_14, DROP INDEX IF EXISTS bf_attr_str_val_15, DROP INDEX IF EXISTS bf_attr_str_val_16, DROP INDEX IF EXISTS bf_attr_str_val_17, DROP INDEX IF EXISTS bf_attr_str_val_18, DROP INDEX IF EXISTS bf_attr_str_val_19 SETTINGS mutations_sync=0, alter_sync=0;\nNone", "severity": "error", "exception": "Traceback (most recent call last):\n  File "/usr/src/snuba/snuba/clickhouse/native.py", line 200, in execute\n    result_data = query_execute()\n                  ^^^^^^^^^^^^^^^\n  File "/usr/src/snuba/snuba/clickhouse/native.py", line 183, in query_execute\n    return conn.execute(  # type: ignore\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/clickhouse_driver/client.py", line 373, in execute\n    rv = self.process_ordinary_query(\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/clickhouse_driver/client.py", line 571, in process_ordinary_query\n    return self.receive_result(with_column_types=with_column_types,\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/clickhouse_driver/client.py", line 204, in receive_result\n    return result.get_result()\n           ^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/clickhouse_driver/result.py", line 50, in get_result\n    for packet in self.packet_generator:\n  File "/usr/local/lib/python3.11/site-packages/clickhouse_driver/client.py", line 220, in packet_generator\n    packet = self.receive_packet()\n             ^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/clickhouse_driver/client.py", line 237, in receive_packet\n    raise packet.exception\nclickhouse_driver.errors.ServerException: Code: 517.\nDB::Exception: Metadata on replica is not up to date with common metadata in Zookeeper. It means that this replica still not applied some of previous alters. Probably too many alters executing concurrently (highly not recommended). You can retry this error. Stack trace:\n\n0. DB::Exception::Exception(DB::Exception::MessageMasked&amp;&amp;, int, bool) @ 0x000000000c6251d7 in /usr/bin/clickhouse\n1. DB::Exception::Exception(int, char const (&amp;) [242]) @ 0x00000000128017a3 in /usr/bin/clickhouse\n2. DB::StorageReplicatedMergeTree::alter(DB::AlterCommands const&amp;, std::shared_ptr, std::unique_lock&amp;) @ 0x000000001280005a in /usr/bin/clickhouse\n3. DB::InterpreterAlterQuery::executeToTable(DB::ASTAlterQuery const&amp;) @ 0x0000000011d934d0 in /usr/bin/clickhouse\n4. DB::InterpreterAlterQuery::execute() @ 0x0000000011d90730 in /usr/bin/clickhouse\n5. DB::executeQueryImpl(char const*, char const*, std::shared_ptr, bool, DB::QueryProcessingStage::Enum, DB::ReadBuffer*) @ 0x00000000122c98a8 in /usr/bin/clickhouse\n6. DB::executeQuery(String const&amp;, std::shared_ptr, bool, DB::QueryProcessingStage::Enum) @ 0x00000000122c5015 in /usr/bin/clickhouse\n7. DB::TCPHandler::runImpl() @ 0x0000000013140ff9 in /usr/bin/clickhouse\n8. DB::TCPHandler::run() @ 0x00000000131533d9 in /usr/bin/clickhouse\n9. Poco::Net::TCPServerConnection::start() @ 0x0000000015b4dc74 in /usr/bin/clickhouse\n10. Poco::Net::TCPServerDispatcher::run() @ 0x0000000015b4ee71 in /usr/bin/clickhouse\n11. Poco::PooledThread::run() @ 0x0000000015c85aa7 in /usr/bin/clickhouse\n12. Poco::ThreadImpl::runnableEntry(void*) @ 0x0000000015c83d7c in /usr/bin/clickhouse\n13. ? @ 0x00007ff342b0f609 in ?\n14. ? @ 0x00007ff342a34353 in ?\n\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File "/usr/src/snuba/snuba/migrations/operations.py", line 81, in execute\n    connection.execute(self.format_sql(), settings=self._settings)\n  File "/usr/src/snuba/snuba/clickhouse/native.py", line 285, in execute\n    raise ClickhouseError(e.message, code=e.code) from e\nsnuba.clickhouse.errors.ClickhouseError: DB::Exception: Metadata on replica is not up to date with common metadata in Zookeeper. It means that this replica still not applied some of previous alters. Probably too many alters executing concurrently (highly not recommended). You can retry this error. Stack trace:\n\n0. DB::Exception::Exception(DB::Exception::MessageMasked&amp;&amp;, int, bool) @ 0x000000000c6251d7 in /usr/bin/clickhouse\n1. DB::Exception::Exception(int, char const (&amp;) [242]) @ 0x00000000128017a3 in /usr/bin/clickhouse\n2. DB::StorageReplicatedMergeTree::alter(DB::AlterCommands const&amp;, std::shared_ptr, std::unique_lock&amp;) @ 0x000000001280005a in /usr/bin/clickhouse\n3. DB::InterpreterAlterQuery::executeToTable(DB::ASTAlterQuery const&amp;) @ 0x0000000011d934d0 in /usr/bin/clickhouse\n4. DB::InterpreterAlterQuery::execute() @ 0x0000000011d90730 in /usr/bin/clickhouse\n5. DB::executeQueryImpl(char const*, char const*, std::shared_ptr, bool, DB::QueryProcessingStage::Enum, DB::ReadBuffer*) @ 0x00000000122c98a8 in /usr/bin/clickhouse\n6. DB::executeQuery(String const&amp;, std::shared_ptr, bool, DB::QueryProcessingStage::Enum) @ 0x00000000122c5015 in /usr/bin/clickhouse\n7. DB::TCPHandler::runImpl() @ 0x0000000013140ff9 in /usr/bin/clickhouse\n8. DB::TCPHandler::run() @ 0x00000000131533d9 in /usr/bin/clickhouse\n9. Poco::Net::TCPServerConnection::start() @ 0x0000000015b4dc74 in /usr/bin/clickhouse\n10. Poco::Net::TCPServerDispatcher::run() @ 0x0000000015b4ee71 in /usr/bin/clickhouse\n11. Poco::PooledThread::run() @ 0x0000000015c85aa7 in /usr/bin/clickhouse\n12. Poco::ThreadImpl::runnableEntry(void*) @ 0x0000000015c83d7c in /usr/bin/clickhouse\n13. ? @ 0x00007ff342b0f609 in ?\n14. ? @ 0x00007ff342a34353 in ?\n", "timestamp": "2025-01-03T07:17:43.676757Z"}
-sentry-snuba-migrate-gzjrm snuba-migrate Traceback (most recent call last):
-sentry-snuba-migrate-gzjrm snuba-migrate   File "/usr/src/snuba/snuba/clickhouse/native.py", line 200, in execute
-sentry-snuba-migrate-gzjrm snuba-migrate     result_data = query_execute()
-sentry-snuba-migrate-gzjrm snuba-migrate                   ^^^^^^^^^^^^^^^
-sentry-snuba-migrate-gzjrm snuba-migrate   File "/usr/src/snuba/snuba/clickhouse/native.py", line 183, in query_execute
-sentry-snuba-migrate-gzjrm snuba-migrate     return conn.execute(  # type: ignore
-sentry-snuba-migrate-gzjrm snuba-migrate            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-sentry-snuba-migrate-gzjrm snuba-migrate   File "/usr/local/lib/python3.11/site-packages/clickhouse_driver/client.py", line 373, in execute
-sentry-snuba-migrate-gzjrm snuba-migrate     rv = self.process_ordinary_query(
-sentry-snuba-migrate-gzjrm snuba-migrate          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-sentry-snuba-migrate-gzjrm snuba-migrate   File "/usr/local/lib/python3.11/site-packages/clickhouse_driver/client.py", line 571, in process_ordinary_query
-sentry-snuba-migrate-gzjrm snuba-migrate     return self.receive_result(with_column_types=with_column_types,
-sentry-snuba-migrate-gzjrm snuba-migrate            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-sentry-snuba-migrate-gzjrm snuba-migrate   File "/usr/local/lib/python3.11/site-packages/clickhouse_driver/client.py", line 204, in receive_result
-sentry-snuba-migrate-gzjrm snuba-migrate     return result.get_result()
-sentry-snuba-migrate-gzjrm snuba-migrate            ^^^^^^^^^^^^^^^^^^^
-sentry-snuba-migrate-gzjrm snuba-migrate   File "/usr/local/lib/python3.11/site-packages/clickhouse_driver/result.py", line 50, in get_result
-sentry-snuba-migrate-gzjrm snuba-migrate     for packet in self.packet_generator:
-sentry-snuba-migrate-gzjrm snuba-migrate   File "/usr/local/lib/python3.11/site-packages/clickhouse_driver/client.py", line 220, in packet_generator
-sentry-snuba-migrate-gzjrm snuba-migrate     packet = self.receive_packet()
-sentry-snuba-migrate-gzjrm snuba-migrate              ^^^^^^^^^^^^^^^^^^^^^
-sentry-snuba-migrate-gzjrm snuba-migrate   File "/usr/local/lib/python3.11/site-packages/clickhouse_driver/client.py", line 237, in receive_packet
-sentry-snuba-migrate-gzjrm snuba-migrate     raise packet.exception
-sentry-snuba-migrate-gzjrm snuba-migrate clickhouse_driver.errors.ServerException: Code: 517.
-sentry-snuba-migrate-gzjrm snuba-migrate DB::Exception: Metadata on replica is not up to date with common metadata in Zookeeper. It means that this replica still not applied some of previous alters. Probably too many alters executing concurrently (highly not recommended). You can retry this error. Stack trace:
-sentry-snuba-migrate-gzjrm snuba-migrate 
-sentry-snuba-migrate-gzjrm snuba-migrate 0. DB::Exception::Exception(DB::Exception::MessageMasked&amp;&amp;, int, bool) @ 0x000000000c6251d7 in /usr/bin/clickhouse
-sentry-snuba-migrate-gzjrm snuba-migrate 1. DB::Exception::Exception(int, char const (&amp;) [242]) @ 0x00000000128017a3 in /usr/bin/clickhouse
-sentry-snuba-migrate-gzjrm snuba-migrate 2. DB::StorageReplicatedMergeTree::alter(DB::AlterCommands const&amp;, std::shared_ptr, std::unique_lock&amp;) @ 0x000000001280005a in /usr/bin/clickhouse
-sentry-snuba-migrate-gzjrm snuba-migrate 3. DB::InterpreterAlterQuery::executeToTable(DB::ASTAlterQuery const&amp;) @ 0x0000000011d934d0 in /usr/bin/clickhouse
-sentry-snuba-migrate-gzjrm snuba-migrate 4. DB::InterpreterAlterQuery::execute() @ 0x0000000011d90730 in /usr/bin/clickhouse
-sentry-snuba-migrate-gzjrm snuba-migrate 5. DB::executeQueryImpl(char const*, char const*, std::shared_ptr, bool, DB::QueryProcessingStage::Enum, DB::ReadBuffer*) @ 0x00000000122c98a8 in /usr/bin/clickhouse
-sentry-snuba-migrate-gzjrm snuba-migrate 6. DB::executeQuery(String const&amp;, std::shared_ptr, bool, DB::QueryProcessingStage::Enum) @ 0x00000000122c5015 in /usr/bin/clickhouse
-sentry-snuba-migrate-gzjrm snuba-migrate 7. DB::TCPHandler::runImpl() @ 0x0000000013140ff9 in /usr/bin/clickhouse
-sentry-snuba-migrate-gzjrm snuba-migrate 8. DB::TCPHandler::run() @ 0x00000000131533d9 in /usr/bin/clickhouse
-sentry-snuba-migrate-gzjrm snuba-migrate 9. Poco::Net::TCPServerConnection::start() @ 0x0000000015b4dc74 in /usr/bin/clickhouse
-sentry-snuba-migrate-gzjrm snuba-migrate 10. Poco::Net::TCPServerDispatcher::run() @ 0x0000000015b4ee71 in /usr/bin/clickhouse
-sentry-snuba-migrate-gzjrm snuba-migrate 11. Poco::PooledThread::run() @ 0x0000000015c85aa7 in /usr/bin/clickhouse
-sentry-snuba-migrate-gzjrm snuba-migrate 12. Poco::ThreadImpl::runnableEntry(void*) @ 0x0000000015c83d7c in /usr/bin/clickhouse
-sentry-snuba-migrate-gzjrm snuba-migrate 13. ? @ 0x00007ff342b0f609 in ?
-sentry-snuba-migrate-gzjrm snuba-migrate 14. ? @ 0x00007ff342a34353 in ?
-sentry-snuba-migrate-gzjrm snuba-migrate 
-sentry-snuba-migrate-gzjrm snuba-migrate 
-sentry-snuba-migrate-gzjrm snuba-migrate The above exception was the direct cause of the following exception:
-sentry-snuba-migrate-gzjrm snuba-migrate 
-sentry-snuba-migrate-gzjrm snuba-migrate Traceback (most recent call last):
-sentry-snuba-migrate-gzjrm snuba-migrate   File "/usr/local/bin/snuba", line 33, in 
-sentry-snuba-migrate-gzjrm snuba-migrate     sys.exit(load_entry_point('snuba', 'console_scripts', 'snuba')())
-sentry-snuba-migrate-gzjrm snuba-migrate              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-sentry-snuba-migrate-gzjrm snuba-migrate   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1130, in call
-sentry-snuba-migrate-gzjrm snuba-migrate     return self.main(*args, **kwargs)
-sentry-snuba-migrate-gzjrm snuba-migrate            ^^^^^^^^^^^^^^^^^^^^^^^^^^
-sentry-snuba-migrate-gzjrm snuba-migrate   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1055, in main
-sentry-snuba-migrate-gzjrm snuba-migrate     rv = self.invoke(ctx)
-sentry-snuba-migrate-gzjrm snuba-migrate          ^^^^^^^^^^^^^^^^
-sentry-snuba-migrate-gzjrm snuba-migrate   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1657, in invoke
-sentry-snuba-migrate-gzjrm snuba-migrate     return _process_result(sub_ctx.command.invoke(sub_ctx))
-sentry-snuba-migrate-gzjrm snuba-migrate                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-sentry-snuba-migrate-gzjrm snuba-migrate   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1657, in invoke
-sentry-snuba-migrate-gzjrm snuba-migrate     return _process_result(sub_ctx.command.invoke(sub_ctx))
-sentry-snuba-migrate-gzjrm snuba-migrate                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-sentry-snuba-migrate-gzjrm snuba-migrate   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1404, in invoke
-sentry-snuba-migrate-gzjrm snuba-migrate     return ctx.invoke(self.callback, *ctx.params)
-sentry-snuba-migrate-gzjrm snuba-migrate            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-sentry-snuba-migrate-gzjrm snuba-migrate   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 760, in invoke
-sentry-snuba-migrate-gzjrm snuba-migrate     return __callback(args, kwargs)
-sentry-snuba-migrate-gzjrm snuba-migrate            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-sentry-snuba-migrate-gzjrm snuba-migrate   File "/usr/src/snuba/snuba/cli/migrations.py", line 120, in migrate
-sentry-snuba-migrate-gzjrm snuba-migrate     runner.run_all(
-sentry-snuba-migrate-gzjrm snuba-migrate   File "/usr/src/snuba/snuba/migrations/runner.py", line 257, in run_all
-sentry-snuba-migrate-gzjrm snuba-migrate     self._run_migration_impl(
-sentry-snuba-migrate-gzjrm snuba-migrate   File "/usr/src/snuba/snuba/migrations/runner.py", line 335, in _run_migration_impl
-sentry-snuba-migrate-gzjrm snuba-migrate     migration.forwards(context, dry_run, columns_states)
-sentry-snuba-migrate-gzjrm snuba-migrate   File "/usr/src/snuba/snuba/migrations/migration.py", line 170, in forwards
-sentry-snuba-migrate-gzjrm snuba-migrate     op.execute()
-sentry-snuba-migrate-gzjrm snuba-migrate   File "/usr/src/snuba/snuba/migrations/operations.py", line 81, in execute
-sentry-snuba-migrate-gzjrm snuba-migrate     connection.execute(self.format_sql(), settings=self._settings)
-sentry-snuba-migrate-gzjrm snuba-migrate   File "/usr/src/snuba/snuba/clickhouse/native.py", line 285, in execute
-sentry-snuba-migrate-gzjrm snuba-migrate     raise ClickhouseError(e.message, code=e.code) from e
-sentry-snuba-migrate-gzjrm snuba-migrate snuba.clickhouse.errors.ClickhouseError: DB::Exception: Metadata on replica is not up to date with common metadata in Zookeeper. It means that this replica still not applied some of previous alters. Probably too many alters executing concurrently (highly not recommended). You can retry this error. Stack trace:
-sentry-snuba-migrate-gzjrm snuba-migrate 
-sentry-snuba-migrate-gzjrm snuba-migrate 0. DB::Exception::Exception(DB::Exception::MessageMasked&amp;&amp;, int, bool) @ 0x000000000c6251d7 in /usr/bin/clickhouse
-sentry-snuba-migrate-gzjrm snuba-migrate 1. DB::Exception::Exception(int, char const (&amp;) [242]) @ 0x00000000128017a3 in /usr/bin/clickhouse
-sentry-snuba-migrate-gzjrm snuba-migrate 2. DB::StorageReplicatedMergeTree::alter(DB::AlterCommands const&amp;, std::shared_ptr, std::unique_lock&amp;) @ 0x000000001280005a in /usr/bin/clickhouse
-sentry-snuba-migrate-gzjrm snuba-migrate 3. DB::InterpreterAlterQuery::executeToTable(DB::ASTAlterQuery const&amp;) @ 0x0000000011d934d0 in /usr/bin/clickhouse
-sentry-snuba-migrate-gzjrm snuba-migrate 4. DB::InterpreterAlterQuery::execute() @ 0x0000000011d90730 in /usr/bin/clickhouse
-sentry-snuba-migrate-gzjrm snuba-migrate 5. DB::executeQueryImpl(char const, char const, std::shared_ptr, bool, DB::QueryProcessingStage::Enum, DB::ReadBuffer) @ 0x00000000122c98a8 in /usr/bin/clickhouse
-sentry-snuba-migrate-gzjrm snuba-migrate 6. DB::executeQuery(String const&amp;, std::shared_ptr, bool, DB::QueryProcessingStage::Enum) @ 0x00000000122c5015 in /usr/bin/clickhouse
-sentry-snuba-migrate-gzjrm snuba-migrate 7. DB::TCPHandler::runImpl() @ 0x0000000013140ff9 in /usr/bin/clickhouse
-sentry-snuba-migrate-gzjrm snuba-migrate 8. DB::TCPHandler::run() @ 0x00000000131533d9 in /usr/bin/clickhouse
-sentry-snuba-migrate-gzjrm snuba-migrate 9. Poco::Net::TCPServerConnection::start() @ 0x0000000015b4dc74 in /usr/bin/clickhouse
-sentry-snuba-migrate-gzjrm snuba-migrate 10. Poco::Net::TCPServerDispatcher::run() @ 0x0000000015b4ee71 in /usr/bin/clickhouse
-sentry-snuba-migrate-gzjrm snuba-migrate 11. Poco::PooledThread::run() @ 0x0000000015c85aa7 in /usr/bin/clickhouse
-sentry-snuba-migrate-gzjrm snuba-migrate 12. Poco::ThreadImpl::runnableEntry(void) @ 0x0000000015c83d7c in /usr/bin/clickhouse
-sentry-snuba-migrate-gzjrm snuba-migrate 13. ? @ 0x00007ff342b0f609 in ?
-sentry-snuba-migrate-gzjrm snuba-migrate 14. ? @ 0x00007ff342a34353 in ?
-sentry-snuba-migrate-gzjrm snuba-migrate 
-
-sentry-snuba-migrate-gzjrm › snuba-migrate
-``</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">patsevanton/sentry-kubernetes-charts-fork</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">sentry-24-10-0</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#02d16ae</div>
-                                        <div class="message">feat: update Sentry chart to appVersion 24.10.0 and bump Clickhouse dependency to 3.14.0</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1244,7 +1138,7 @@ sentry-snuba-migrate-gzjrm › snuba-migrate
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Jan 2025, 07:22:48 (timezone Asia/Omsk) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 5 Jan 2025, 07:37:24 (timezone Asia/Omsk) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
