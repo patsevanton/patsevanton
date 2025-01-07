@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1810" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1627" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid#959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex:1 1 0;align-items:center}.chart-bars .entry .value{font-size:7px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid#777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.af{opacity:0;animation:animation-fade 1s ease forwards}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid#959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex:1 1 0;align-items:center}.chart-bars .entry .value{font-size:7px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid#777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}.af{opacity:0;animation:animation-fade 1s ease forwards}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -30,19 +30,19 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,13 +69,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            9268 Commits
+                            9274 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            13 Pull requests reviewed
+                            16 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            1728 issue comments
+                            1731 issue comments
                         </div>
                     </section>
                     <section>
@@ -361,21 +361,21 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="8.193103448275862" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="8.193103448275862" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="8.193103448275862" y="0" width="1.8206896551724139" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="10.013793103448275" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="10.013793103448275" y="0" width="61.29655172413793" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="71.3103448275862" y="0" width="0" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="71.3103448275862" y="0" width="148.6896551724138" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="7.889655172413793" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="7.889655172413793" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="7.889655172413793" y="0" width="1.8206896551724139" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="9.710344827586207" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="9.710344827586207" y="0" width="61.60000000000001" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="71.31034482758622" y="0" width="0" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="71.31034482758622" y="0" width="148.6896551724138" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="220.00000000000003" y="0" width="0" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="followup legend field fill-width">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#238636" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">27 <small>open</small></span>
+                                <span class="no-wrap">26 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -394,7 +394,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#da3633" fill-rule="evenodd" d="M10.72 1.227a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 111.06 1.061l-.97.97.97.97a.75.75 0 01-1.06 1.06l-.97-.97-.97.97a.75.75 0 11-1.06-1.06l.97-.97-.97-.97a.75.75 0 010-1.06zM12.75 6.5a.75.75 0 00-.75.75v3.378a2.251 2.251 0 101.5 0V7.25a.75.75 0 00-.75-.75zm0 5.5a.75.75 0 100 1.5.75.75 0 000-1.5zM2.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.25 1a2.25 2.25 0 00-.75 4.372v5.256a2.251 2.251 0 101.5 0V5.372A2.25 2.25 0 003.25 1zm0 11a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">202 <small>closed</small></span>
+                                <span class="no-wrap">203 <small>closed</small></span>
                             </div>
                         </div>
                     </section>
@@ -597,55 +597,50 @@
                         <h3>Total stargazers</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value">193</span>
+                                <span class="value">194</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                24
+                                25
                                 <div class="bottom">Dec.</div>
                             </div>
                             <div class="entry">
-                                <span class="value">194</span>
-                                <div class="bar" style="height: 26.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                25
-                            </div>
-                            <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 26.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 26
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 26.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 27
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 26.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 28
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 26.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 29
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 26.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 30
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 26.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 31
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 26.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 1
                                 <div class="bottom">Jan.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 26.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 2
                             </div>
                             <div class="entry">
@@ -668,21 +663,21 @@
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 6
                             </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                7
+                            </div>
                         </div>
                     </section>
                     <section class="column chart">
                         <h3>New stargazers per day</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                24
-                                <div class="bottom">Dec.</div>
-                            </div>
-                            <div class="entry">
                                 <span class="value">+1</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 25
+                                <div class="bottom">Dec.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -744,6 +739,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 6
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                7
                             </div>
                         </div>
                     </section>
@@ -771,22 +771,11 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by kimxogus in <span class="repo">sentry-kubernetes/charts</span></div>
-                                    <div class="comment">@kimxogus Please remove topic snuba-metrics-summaries https://github.com/getsentry/snuba/compare/24.10.0...24.11.2</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">sentry-24-10-0</span>
-                                        in
-                                        <span class="repo">patsevanton/sentry-kubernetes-charts-fork</span>
+                                    <div class="comment">
+                                        @kimxogus like:
+                                        <code class="language-multiline" xml:space="preserve">------------------------------------------------------------------------------------------------------------------------
+==&gt; Logs of container sentry-11zy8tpk85-snuba-migrate-2nztt
+<span class="token trimmed">(2 more lines were trimmed)</span></code>
                                     </div>
                                 </div>
                             </section>
@@ -799,298 +788,92 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">patsevanton/getsentry-snuba-fork</span>
+                                        <span class="repo">terraform-yacloud-modules/terraform-yandex-address</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">secure-ClickHouse-connections</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5d412b1</div>
-                                        <div class="message">feat: Add SSL/TLS support for ClickHouse connections</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 217 commits in
-                                        <span class="repo">patsevanton/getsentry-snuba-fork</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e26ca27</div>
-                                        <div class="message">fix(eap-spans): Add back missing time column (#6484)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#addb7a7</div>
-                                        <div class="message">chore(eap-spans): Adapt configuration and consumer to insert in the new spans table (#6465)
+                                        <div class="sha">#fe8e863</div>
+                                        <div class="message">Bump bridgecrewio/checkov-action from 12.2940.0 to 12.2941.0 (#37)
 
-This will insert in the new spans table we created.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01eb9c4</div>
-                                        <div class="message">fix(EAP): fix bug with unassigned labels (#6481)
-
-protobuf sets the label as an empty string by default which is truthy in
-python. hence we were not actually bubbling up labels correctly. this
-fixes the bug</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ba91d0</div>
-                                        <div class="message">ref(subscriptions): Introduce abstract SubscriptionData class (#6419)
-
-This is a refactor to prepare for RPC subscriptions.
-1. Renames SubscriptionData to SnQLSubscriptionData
-([commit](https://github.com/getsentry/snuba/pull/6419/commits/be2a040c63bcc14f67782947d15e5a43d452ced6),
-easiest reviewed on its own, and then the rest).
-2. Introduces an abstract SubscriptionData class that
-SnQLSubscriptionData &amp; eventually RPCSubscriptionData will inherit from
-(something like this, although
-[this](https://github.com/getsentry/snuba/pull/6434/files) is not ready
-for review).
-
-The idea is that the RPCSubscription class will store a serialized proto
-instead of `query` in SnQLSubscriptionData.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e909b6c</div>
-                                        <div class="message">chore(deps) bump werkzeug from 2.2.3 to 3.0.5 (#6479)
-
-https://github.com/getsentry/snuba/security/dependabot/52</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e4fee8</div>
-                                        <div class="message">chore(deps) Update ws from 8.11.0 to 8.18.0 (#6478)
-
-https://github.com/getsentry/snuba/security/dependabot/55</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7fe3bae</div>
-                                        <div class="message">ref(bulk-deletes): bulk delete query path and producer (#6440)
-
-**context**
-The current pipeline we have for deleting data (via lightweight deletes)
-is an API endpoint that executes the query directly. `DELETE` requests
-are technically synchronous at the moment due to the ClickHouse version
-we are on (the `lightweight_delete_mutations_sync` parameter exist in
-newer version).
-
-**problem**
-We'd like to keep the number of concurrent `DELETE` requests to a
-minimum since they add an increased load to ClickHouse. Though the
-number of rows being deleted does have an effect on load, even a delete
-that deletes a few rows can have a significant enough effect because
-it's still a mutation (under the hood the `DELETE FROM` becomes an
-`UPDATE`).
-
-**batched deletes**
-In order to scale we are adding a consumer that will batch up DELETE
-queries so that we have fewer mutations, even though the number of rows
-deleted/mutated will be higher.
-
-The new pipeline is a bit different and has some new components:
-- [ ] `DELETE` api endpoint will now take a request and produce it to a
-topic (This PR)
-* The topics are storage specific, ex. `LW_DELETIONS_SEARCH_ISSUES =
-"snuba-lw-deletions-search-issues"`
-- [ ] Consumer(s) will be added to consume from the topic that
-corresponds to the storage the consumer is for, right now this will just
-be search issues
-
-**other notable changes (in this pr)**
-* addition of `allowed_columns` in the deletion settings, this will
-eventually replace the `ColumnFilterProcessor` once deletes are fully on
-the bulk delete endpoint
-* `rows_to_delete` is added to the delete query payload so that we can
-batch based on number of rows to be delete instead of batching on number
-of messages</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e782ed</div>
-                                        <div class="message">chore(deps-dev): bump webpack from 5.88.0 to 5.95.0 in /snuba/admin (#6471)
-
-https://github.com/getsentry/snuba/security/dependabot/61</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#72f4279</div>
-                                        <div class="message">chore(eap-spans): Create a new materialized view for attributes based on the spans v2 table (#6474)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6dcc6dd</div>
-                                        <div class="message">build(deps): bump redis from 4.3.4 to 4.5.4 (#6470)
-
-https://github.com/getsentry/snuba/security/dependabot/24</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e4ca83b</div>
-                                        <div class="message">chore(deps): bump sqlparse from 0.4.2 to 0.5.0 (#6467)
-
-https://github.com/getsentry/snuba/security/dependabot/49
-
-Also requires updating to `sql-metadata==2.14.0`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ac6736a</div>
-                                        <div class="message">feat(job-runner): record job's start timestamp to support timeouts (#6447)
-
-store a record of when a job started executing so that we can support
-timeouts
-
----------
-
-Co-authored-by: Rachel Chen &lt;rachelchen@PL6VFX9HP4.local&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#922e68f</div>
-                                        <div class="message">chore(deps): bump openssl from 0.10.64 to 0.10.68 in /rust_snuba (#6469)
-
-https://github.com/getsentry/snuba/security/dependabot/58</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f122e8e</div>
-                                        <div class="message">ref: bump sentry-kafka-schemas to 0.1.115 (#6464)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d204d3e</div>
-                                        <div class="message">chore(deps): bump braces from 3.0.2 to 3.0.3 in /snuba/admin (#6466)
-
-Bumps braces from 3.0.2 to 3.0.3.
-
-https://github.com/getsentry/snuba/security/dependabot/53</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0b09da5</div>
-                                        <div class="message">build(deps): bump tough-cookie from 4.1.2 to 4.1.3 in /snuba/admin (#4483)
-
-Bumps [tough-cookie](https://github.com/salesforce/tough-cookie) from
-4.1.2 to 4.1.3.
-&lt;details&gt;
-&lt;summary&gt;Release notes&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a
-href="https://github.com/salesforce/tough-cookie/releases"&gt;tough-cookie's
-releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;4.1.3&lt;/h2&gt;
-&lt;p&gt;Security fix for Prototype Pollution discovery in &lt;a
-href="https://redirect.github.com/salesforce/tough-cookie/issues/282"&gt;#282&lt;/a&gt;.
-This is a minor release, although output from the &lt;code&gt;inspect&lt;/code&gt;
-utility is affected by this change, we felt this change was important
-enough to be pushed into the next patch.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/salesforce/tough-cookie/commit/4ff4d29f6cefd279a412b8d62a21142ebd410b36"&gt;&lt;code&gt;4ff4d29&lt;/code&gt;&lt;/a&gt;
-4.1.3 release preparation, update the package and lib/version to 4.1.3.
-(&lt;a
-href="https://redirect.github.com/salesforce/tough-cookie/issues/284"&gt;#284&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/salesforce/tough-cookie/commit/12d474791bb856004e858fdb1c47b7608d09cf6e"&gt;&lt;code&gt;12d4747&lt;/code&gt;&lt;/a&gt;
-Prevent prototype pollution in cookie memstore (&lt;a
-href="https://redirect.github.com/salesforce/tough-cookie/issues/283"&gt;#283&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/salesforce/tough-cookie/commit/f06b72d1d447f33dfa6222c0a3c0c5e063558248"&gt;&lt;code&gt;f06b72d&lt;/code&gt;&lt;/a&gt;
-Fix documentation for store.findCookies, missing allowSpecialUseDomain
-proper...&lt;/li&gt;
-&lt;li&gt;See full diff in &lt;a
-href="https://github.com/salesforce/tough-cookie/compare/v4.1.2...v4.1.3"&gt;compare
-view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-
-[![Dependabot compatibility
-score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=tough-cookie&amp;package-manager=npm_and_yarn&amp;previous-version=4.1.2&amp;new-version=4.1.3)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
-
-You can trigger a rebase of this PR by commenting `@dependabot rebase`.
-
-[//]: # (dependabot-automerge-start)
-[//]: # (dependabot-automerge-end)
+Bumps [bridgecrewio/checkov-action](https://github.com/bridgecrewio/checkov-action) from 12.2940.0 to 12.2941.0.
+- [Release notes](https://github.com/bridgecrewio/checkov-action/releases)
+- [Commits](https://github.com/bridgecrewio/checkov-action/compare/v12.2940.0...v12.2941.0)
 
 ---
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot recreate` will recreate this PR, overwriting any edits
-that have been made to it
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot squash and merge` will squash and merge this PR after
-your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge
-and block automerging
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot close` will close this PR and stop Dependabot recreating
-it. You can achieve the same result by closing it manually
-- `@dependabot ignore this major version` will close this PR and stop
-Dependabot creating any more for this major version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this minor version` will close this PR and stop
-Dependabot creating any more for this minor version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this dependency` will close this PR and stop
-Dependabot creating any more for this dependency (unless you reopen the
-PR or upgrade to it yourself)
-You can disable automated security fix PRs for this repo from the
-[Security Alerts
-page](https://github.com/getsentry/snuba/network/alerts).
-
-&lt;/details&gt;
-
-&gt; **Note**
-&gt; Automatic rebases have been disabled on this pull request as it has
-been open for over 30 days.
+updated-dependencies:
+- dependency-name: bridgecrewio/checkov-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
                                     </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">terraform-yacloud-modules/terraform-yandex-mdb-postgresql</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d0710c8</div>
-                                        <div class="message">fix(admin): Allow OPTIMIZE queries in sudo mode (#6463)
+                                        <div class="sha">#c8926ae</div>
+                                        <div class="message">Merge pull request #34 from terraform-yacloud-modules/dependabot/github_actions/bridgecrewio/checkov-action-12.2941.0
 
-This allows OPTIMIZE queries to be run in the snuba admin when using
-sudo mode. This can be useful to potentially resolve tables/partitions in bad
-states.</div>
+chore(deps): bump bridgecrewio/checkov-action from 12.2940.0 to 12.2941.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#845563c</div>
-                                        <div class="message">feat(eap-spans): Add a new schema for spans (#6442)</div>
+                                        <div class="sha">#3ff7026</div>
+                                        <div class="message">chore(deps): bump bridgecrewio/checkov-action
+
+Bumps [bridgecrewio/checkov-action](https://github.com/bridgecrewio/checkov-action) from 12.2940.0 to 12.2941.0.
+- [Release notes](https://github.com/bridgecrewio/checkov-action/releases)
+- [Commits](https://github.com/bridgecrewio/checkov-action/compare/v12.2940.0...v12.2941.0)
+
+---
+updated-dependencies:
+- dependency-name: bridgecrewio/checkov-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#93dd2fc</div>
-                                        <div class="message">fix(functions): apply proper conversion from f64 to u64 for DateTime64 fields (#6460)
-
-Both `start_timestamp` and `end_timestamp` were defined as `DateTime64`
-fields.
-
-The proper conversion to `u64` needs to be applied before insertion or
-else, an error will happen at insertion time.</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#1640 feat: Sentry 24.11.2</span>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#a19b9e5</div>
-                                        <div class="message">Enhance query tracing and debug information on RPC Endpoints (#6456)
-
-These changes provide more detailed query profiling and debugging
-capabilities, allowing for better performance analysis and
-troubleshooting of RPC Endpoints.
-
-- Update sentry-protos to version 0.1.30
-- Optimize Clickhouse settings handling for trace capture
-- Extend ResponseMeta extraction to include clickhouse trace logs
-- Add support for enabling trace logs in TraceItemTable endpoint</div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by kimxogus in <span class="repo">sentry-kubernetes/charts</span></div>
+                                    <div class="comment">
+                                        git clone https://github.com/kimxogus/sentry-charts.git
+git checkout feat/sentry-24.11.2
+helm dependency update
+helm install -n test --wait sentry . --values values.yaml --timeout=1000s
+                                        <code class="language-multiline" xml:space="preserve">k get pod -n test
+NAME                                                              READY   STATUS    RESTARTS      AGE
+<span class="token trimmed">(47 more lines were trimmed)</span></code>
                                     </div>
                                 </div>
                             </section>
@@ -1102,15 +885,34 @@ troubleshooting of RPC Endpoints.
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">patsevanton/sentry-kubernetes-charts-fork</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">terraform-yacloud-modules/terraform-yandex-mdb-mongodb</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">sentry-24-10-0</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8d574ed</div>
-                                        <div class="message">feat: update Sentry chart to appVersion 24.10.0</div>
+                                        <div class="sha">#0347cf5</div>
+                                        <div class="message">Merge pull request #38 from terraform-yacloud-modules/dependabot/github_actions/bridgecrewio/checkov-action-12.2941.0
+
+build(deps): bump bridgecrewio/checkov-action from 12.2940.0 to 12.2941.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3db247f</div>
+                                        <div class="message">build(deps): bump bridgecrewio/checkov-action
+
+Bumps [bridgecrewio/checkov-action](https://github.com/bridgecrewio/checkov-action) from 12.2940.0 to 12.2941.0.
+- [Release notes](https://github.com/bridgecrewio/checkov-action/releases)
+- [Commits](https://github.com/bridgecrewio/checkov-action/compare/v12.2940.0...v12.2941.0)
+
+---
+updated-dependencies:
+- dependency-name: bridgecrewio/checkov-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -1138,7 +940,7 @@ troubleshooting of RPC Endpoints.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Jan 2025, 07:27:47 (timezone Asia/Omsk) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 7 Jan 2025, 07:25:04 (timezone Asia/Omsk) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
