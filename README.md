@@ -155,7 +155,7 @@ How a Go application behaves during a PostgreSQL master switchover in Yandex Clo
 - [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) - Плейбук для автоматической настройки Ubuntu-ноутбука под DevOps: от чистого дистрибутива до рабочего окружения.  Resources (today)
 - [terraform-yacloud-modules/terraform-yandex-kubernetes](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes) - Terraform module to manage Kubernetes (K8S) resources within the Yandex.Cloud. (today)
 - [patsevanton/k8s-redis-valkey-lab](https://github.com/patsevanton/k8s-redis-valkey-lab) - Стенд для сравнения Redis и Valkey в Kubernetes: Helm-чарты и операторы, функциональность, отказоустойчивость, актуальность версий. (today)
-- [terraform-yacloud-modules/terraform-yandex-mdb-mongodb](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-mongodb) - Terraform module to manage MongoDB resources within the Yandex.Cloud. (1 day ago)
+- [terraform-yacloud-modules/terraform-yandex-address](https://github.com/terraform-yacloud-modules/terraform-yandex-address) - Terraform module to manage address within the Yandex.Cloud (1 day ago)
 - [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) -  (1 day ago)
 
 ### 🔨 My recent Pull Requests
@@ -163,7 +163,6 @@ How a Go application behaves during a PostgreSQL master switchover in Yandex Clo
 - [feat: add cluster IAM members and multiple pod CIDR ranges](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes/pull/141) on [terraform-yacloud-modules/terraform-yandex-kubernetes](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes) (today)
 - [Add SAML authentication and GiB disk size support](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-opensearch/pull/98) on [terraform-yacloud-modules/terraform-yandex-mdb-opensearch](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-opensearch) (today)
 - [feat: add backup retention policy support](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-mysql/pull/79) on [terraform-yacloud-modules/terraform-yandex-mdb-mysql](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-mysql) (today)
-- [Add backup retention period and extended Redis user ACL options](https://github.com/terraform-yacloud-modules/terraform-yandex-redis/pull/86) on [terraform-yacloud-modules/terraform-yandex-redis](https://github.com/terraform-yacloud-modules/terraform-yandex-redis) (today)
 
 ### ⭐ Recent Stars
 
