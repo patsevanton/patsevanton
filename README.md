@@ -82,6 +82,23 @@ How a Go application behaves during a PostgreSQL master switchover in Yandex Clo
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b27?&logo=postgresql&logoColor=white)
 ![Yandex Cloud](https://img.shields.io/badge/Yandex%20Cloud-1a1b27?&logo=yandexcloud&logoColor=white)
 
+### Articles on Habr
+
+- [Coroot: eBPF-профилирование, логи, трейсы в приложениях в kubernetes](https://habr.com/ru/articles/1087316/) — Sep 2026
+- [Алерты по ошибкам и panic из логов приложений в k8s: VictoriaLogs + vmalert + Alertmanager → Telegram](https://habr.com/ru/articles/1083198/) — Sep 2026
+- [Kaniko vs BuildKit vs Buildah: замеряем время, CPU и память сборки в кластере](https://habr.com/ru/articles/1079670/) — Sep 2026
+- [Экономия на k8s нодах ночью и предварительно подготовленные k8s ноды утром используя overprovisioning поды](https://habr.com/ru/articles/1076538/) — Aug 2026
+- [NORA: лёгкий artifact registry для Kubernetes с карантином свежих пакетов и блокировкой CVE](https://habr.com/ru/articles/1074042/) — Aug 2026
+- [Radar: Kubernetes UI, которого не хватало](https://habr.com/ru/articles/1073566/) — Aug 2026
+- [От Flux CLI к Flux Operator и Status Page](https://habr.com/ru/articles/1030980/) — May 2026
+- [OpenCost в Yandex Cloud — расчёт стоимости Kubernetes по ценам Yandex Cloud](https://habr.com/ru/articles/1009678/) — Mar 2026
+- [Хаос-инжиниринг Strimzi Kafka: проверка устойчивости к сбоям через Chaos Mesh](https://habr.com/ru/articles/1002846/) — Feb 2026
+- [Мониторинг Strimzi Kafka через kube-prometheus-stack](https://habr.com/ru/articles/992494/) — Feb 2026
+- [Как маршрутизировать на разные Redis и другие сервисы через один LoadBalancer по SNI TCP routing используя Gateway API](https://habr.com/ru/articles/987652/) — Jan 2026
+- [VictoriaLogs в Kubernetes: от установки до практического применения](https://habr.com/ru/articles/985350/) — Jan 2026
+
+[All my articles on Habr →](https://habr.com/ru/users/chemtech/articles/)
+
 ## More things I've built and written about
 
 - [ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) — an Ansible playbook that turns a clean Ubuntu laptop into a DevOps workstation.
