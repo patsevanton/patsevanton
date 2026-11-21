@@ -123,11 +123,11 @@ From Flux CLI to Flux Operator: a declarative Flux distribution with `FluxInstan
 
 ### 👷 Check out what I'm currently working on
 
-- [patsevanton/k8s-redis-valkey-lab](https://github.com/patsevanton/k8s-redis-valkey-lab) - Стенд для сравнения Redis и Valkey в Kubernetes: Helm-чарты и операторы, функциональность, отказоустойчивость, актуальность версий. (today)
 - [terraform-yacloud-modules/terraform-yandex-kubernetes](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes) - Terraform module to manage Kubernetes (K8S) resources within the Yandex.Cloud. (today)
 - [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) - Плейбук для автоматической настройки Ubuntu-ноутбука под DevOps: от чистого дистрибутива до рабочего окружения.  Resources (today)
-- [terraform-yacloud-modules/terraform-yandex-placement-group](https://github.com/terraform-yacloud-modules/terraform-yandex-placement-group) - Placement Group (1 day ago)
-- [terraform-yacloud-modules/terraform-yandex-mdb-dataproc](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-dataproc) - Terraform module to manage Data Proc resources within the Yandex.Cloud. Resources (1 day ago)
+- [patsevanton/k8s-redis-valkey-lab](https://github.com/patsevanton/k8s-redis-valkey-lab) - Стенд для сравнения Redis и Valkey в Kubernetes: Helm-чарты и операторы, функциональность, отказоустойчивость, актуальность версий. (today)
+- [terraform-yacloud-modules/terraform-yandex-container-registry](https://github.com/terraform-yacloud-modules/terraform-yandex-container-registry) - Terraform module to manage Container Registry resources within the Yandex.Cloud. (1 day ago)
+- [terraform-yacloud-modules/terraform-yandex-clickops-notifier](https://github.com/terraform-yacloud-modules/terraform-yandex-clickops-notifier) -  (1 day ago)
 
 ### 🔨 My recent Pull Requests
 
