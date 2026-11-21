@@ -13,71 +13,83 @@
 
 Hi, welcome to my profile! 👋
 
-I'm a DevOps engineer from Omsk, Russia. Most of my work is around Yandex Cloud: infrastructure as code with Terraform and Ansible, Kubernetes clusters, GitOps with FluxCD, and observability with VictoriaMetrics, Loki and Grafana.
+I'm a DevOps engineer from Omsk, Russia. Most of my work is around Yandex Cloud: infrastructure as code with Terraform and Ansible, Kubernetes clusters, GitOps with FluxCD, and observability with VictoriaMetrics, VictoriaLogs and Grafana.
 
 I write about it in my [Telegram channel](https://t.me/notes_devops_engineer) and on [Habr](https://career.habr.com/chemtech).
 
 ## My notable projects
 
-### [russian-conferences-articles](https://github.com/patsevanton/russian-conferences-articles)
+### [victoriametrics-alertmanager-grafana-oncall-telegram](https://github.com/patsevanton/victoriametrics-alertmanager-grafana-oncall-telegram)
 
-A community project that turns talks from Russian conferences and meetups into written articles: texts are made from subtitles, and anyone can join.
+Alerting pipeline from `vmalert` through Alertmanager and Grafana OnCall to Telegram: the whole path from a metric crossing its threshold to a notification on the phone, wired and checked end to end.
 
-![Markdown](https://img.shields.io/badge/Markdown-1a1b27?&logo=markdown&logoColor=white)
-
-### [postgresql_overview_postgres_exporter](https://github.com/patsevanton/postgresql_overview_postgres_exporter)
-
-Grafana dashboard for `postgres_exporter`: the state of a PostgreSQL cluster on one screen instead of a dozen separate panels.
-
+![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-1a1b27?&logo=victoriametrics&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-1a1b27?&logo=grafana&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b27?&logo=postgresql&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-1a1b27?&logo=telegram&logoColor=white)
 
-### [kubespray_terraform_yandex_cloud](https://github.com/patsevanton/kubespray_terraform_yandex_cloud)
+### [sentry-v29-yc-k8s-elastic](https://github.com/patsevanton/sentry-v29-yc-k8s-elastic)
 
-Step-by-step guide and code for installing a Kubernetes cluster in Yandex Cloud with Kubespray and Terraform, including inventory generation from Terraform state.
+Self-hosted Sentry 29 in Yandex Cloud on Kubernetes: Kafka, ClickHouse and PostgreSQL alongside it, with the resource sizing and tuning that such a stack actually needs.
 
+![Sentry](https://img.shields.io/badge/Sentry-1a1b27?&logo=sentry&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1b27?&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-1a1b27?&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-1a1b27?&logo=ansible&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-1a1b27?&logo=apachekafka&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-1a1b27?&logo=clickhouse&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b27?&logo=postgresql&logoColor=white)
 ![Yandex Cloud](https://img.shields.io/badge/Yandex%20Cloud-1a1b27?&logo=yandexcloud&logoColor=white)
 
-### [ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation)
+### [elastic-chaos-monkey-mixed](https://github.com/patsevanton/elastic-chaos-monkey-mixed)
 
-An Ansible playbook that turns a clean Ubuntu laptop into a DevOps workstation: packages, Docker, Kubernetes clients, IaC tools, secrets and a tuned shell.
+An Elasticsearch cluster under zone failures: what survives, what gets lost, and how shard allocation and quorum behave when whole availability zones go away.
 
-![Ansible](https://img.shields.io/badge/Ansible-1a1b27?&logo=ansible&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-1a1b27?&logo=ubuntu&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-1a1b27?&logo=elasticsearch&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1b27?&logo=kubernetes&logoColor=white)
+
+### [vault-external-secrets-operator](https://github.com/patsevanton/vault-external-secrets-operator)
+
+Kubernetes secrets from Vault with External Secrets Operator and AppRole: workloads read secrets from the cluster API, and no static tokens sit in manifests.
+
+![Vault](https://img.shields.io/badge/Vault-1a1b27?&logo=vault&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1b27?&logo=kubernetes&logoColor=white)
+
+### [k8s-priority-eviction-autoscaling](https://github.com/patsevanton/k8s-priority-eviction-autoscaling)
+
+Night-time node savings: overprovisioning pods, `PriorityClass` and KEDA keep a warm capacity reserve, so scale-to-zero workloads still have somewhere to start at 3 a.m.
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1b27?&logo=kubernetes&logoColor=white)
+![KEDA](https://img.shields.io/badge/KEDA-1a1b27)
+![Terraform](https://img.shields.io/badge/Terraform-1a1b27?&logo=terraform&logoColor=white)
+
+### [buildkit-vs-kaniko-benchmark](https://github.com/patsevanton/buildkit-vs-kaniko-benchmark)
+
+Build time, CPU and memory of Kaniko, BuildKit and Buildah inside a cluster: measured numbers instead of vendor claims, so the image builder in CI is a deliberate choice.
+
 ![Docker](https://img.shields.io/badge/Docker-1a1b27?&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1b27?&logo=kubernetes&logoColor=white)
 
-### [k8s-redis-valkey-lab](https://github.com/patsevanton/k8s-redis-valkey-lab)
+### [gateway-api-tcproute-redis](https://github.com/patsevanton/gateway-api-tcproute-redis)
 
-A test bench that compares Redis and Valkey in Kubernetes: Terraform builds the cluster, Helm charts and operators deploy five variants, and the same measurements cover features, failover, resource usage and version freshness.
+TCP traffic to Redis through one LoadBalancer with Gateway API and SNI routing: a single entry point for many databases instead of a balancer per instance.
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1b27?&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-1a1b27?&logo=helm&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-1a1b27?&logo=redis&logoColor=white)
-![Valkey](https://img.shields.io/badge/Valkey-1a1b27)
-![Terraform](https://img.shields.io/badge/Terraform-1a1b27?&logo=terraform&logoColor=white)
-![Cilium](https://img.shields.io/badge/Cilium-1a1b27?&logo=cilium&logoColor=white)
 
-### [fluxcd-operator-and-status-page](https://github.com/patsevanton/fluxcd-operator-and-status-page)
+### [yacloud-golang-pg-switch-test](https://github.com/patsevanton/yacloud-golang-pg-switch-test)
 
-From Flux CLI to Flux Operator: a declarative Flux distribution with `FluxInstance`, Git sync and a built-in status page instead of hand-maintained `gotk-components`.
+How a Go application behaves during a PostgreSQL master switchover in Yandex Cloud: which connection errors surface, what retries help and what the client has to handle itself.
 
-![FluxCD](https://img.shields.io/badge/FluxCD-1a1b27?&logo=flux&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1b27?&logo=kubernetes&logoColor=white)
+![Go](https://img.shields.io/badge/Go-1a1b27?&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b27?&logo=postgresql&logoColor=white)
+![Yandex Cloud](https://img.shields.io/badge/Yandex%20Cloud-1a1b27?&logo=yandexcloud&logoColor=white)
 
 ## More things I've built and written about
 
-- [victoriametrics-alertmanager-grafana-oncall-telegram](https://github.com/patsevanton/victoriametrics-alertmanager-grafana-oncall-telegram) — alerting pipeline from vmalert through Alertmanager and Grafana OnCall to Telegram.
-- [sentry-v29-yc-k8s-elastic](https://github.com/patsevanton/sentry-v29-yc-k8s-elastic) — self-hosted Sentry in Yandex Cloud on Kubernetes with Kafka, ClickHouse and PostgreSQL.
-- [elastic-chaos-monkey-mixed](https://github.com/patsevanton/elastic-chaos-monkey-mixed) — an Elasticsearch cluster under zone failures: what survives, what gets lost.
-- [vault-external-secrets-operator](https://github.com/patsevanton/vault-external-secrets-operator) — Kubernetes secrets from Vault with External Secrets Operator and AppRole.
-- [k8s-priority-eviction-autoscaling](https://github.com/patsevanton/k8s-priority-eviction-autoscaling) — night-time node savings with overprovisioning pods, PriorityClass and KEDA.
-- [buildkit-vs-kaniko-benchmark](https://github.com/patsevanton/buildkit-vs-kaniko-benchmark) — build time, CPU and memory of Kaniko, BuildKit and Buildah inside a cluster.
-- [gateway-api-tcproute-redis](https://github.com/patsevanton/gateway-api-tcproute-redis) — routing TCP traffic to Redis through one LoadBalancer with Gateway API and SNI.
-- [yacloud-golang-pg-switch-test](https://github.com/patsevanton/yacloud-golang-pg-switch-test) — how a Go application behaves during a PostgreSQL master switchover.
+- [ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) — an Ansible playbook that turns a clean Ubuntu laptop into a DevOps workstation.
+- [k8s-redis-valkey-lab](https://github.com/patsevanton/k8s-redis-valkey-lab) — a test bench that compares Redis and Valkey in Kubernetes.
+- [fluxcd-operator-and-status-page](https://github.com/patsevanton/fluxcd-operator-and-status-page) — from Flux CLI to Flux Operator with a built-in status page.
+- [russian-conferences-articles](https://github.com/patsevanton/russian-conferences-articles) — talks from Russian conferences and meetups turned into written articles.
+- [postgresql_overview_postgres_exporter](https://github.com/patsevanton/postgresql_overview_postgres_exporter) — a Grafana dashboard for `postgres_exporter`: the whole PostgreSQL cluster on one screen.
+- [kubespray_terraform_yandex_cloud](https://github.com/patsevanton/kubespray_terraform_yandex_cloud) — Kubernetes in Yandex Cloud with Kubespray and Terraform, including inventory from Terraform state.
 
 ## Skills
 
@@ -95,7 +107,7 @@ From Flux CLI to Flux Operator: a declarative Flux distribution with `FluxInstan
 ![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-1a1b27?&logo=victoriametrics&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-1a1b27?&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-1a1b27?&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-1a1b27?&logo=grafana&logoColor=white)
+![VictoriaLogs](https://img.shields.io/badge/VictoriaLogs-1a1b27?&logo=victoriametrics&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-1a1b27?&logo=git&logoColor=white)
 
 ### I have some experience in
