@@ -160,9 +160,9 @@ How a Go application behaves during a PostgreSQL master switchover in Yandex Clo
 
 ### 🔨 My recent Pull Requests
 
+- [docs: сравнение Mnemosyne с opencode-mem в TODO](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/54) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (today)
 - [feat: add cluster IAM members and multiple pod CIDR ranges](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes/pull/141) on [terraform-yacloud-modules/terraform-yandex-kubernetes](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes) (today)
 - [Add SAML authentication and GiB disk size support](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-opensearch/pull/98) on [terraform-yacloud-modules/terraform-yandex-mdb-opensearch](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-opensearch) (today)
-- [feat: add backup retention policy support](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-mysql/pull/79) on [terraform-yacloud-modules/terraform-yandex-mdb-mysql](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-mysql) (today)
 
 ### ⭐ Recent Stars
 
