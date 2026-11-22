@@ -152,25 +152,25 @@ How a Go application behaves during a PostgreSQL master switchover in Yandex Clo
 
 ### 👷 Check out what I'm currently working on
 
-- [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) - Плейбук для автоматической настройки Ubuntu-ноутбука под DevOps: от чистого дистрибутива до рабочего окружения.  Resources (today)
-- [terraform-yacloud-modules/terraform-yandex-kubernetes](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes) - Terraform module to manage Kubernetes (K8S) resources within the Yandex.Cloud. (today)
-- [patsevanton/k8s-redis-valkey-lab](https://github.com/patsevanton/k8s-redis-valkey-lab) - Стенд для сравнения Redis и Valkey в Kubernetes: Helm-чарты и операторы, функциональность, отказоустойчивость, актуальность версий. (today)
-- [terraform-yacloud-modules/terraform-yandex-address](https://github.com/terraform-yacloud-modules/terraform-yandex-address) - Terraform module to manage address within the Yandex.Cloud (1 day ago)
-- [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) -  (1 day ago)
+- [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) - Плейбук для автоматической настройки Ubuntu-ноутбука под DevOps: от чистого дистрибутива до рабочего окружения.  Resources (1 day ago)
+- [terraform-yacloud-modules/terraform-yandex-kubernetes](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes) - Terraform module to manage Kubernetes (K8S) resources within the Yandex.Cloud. (1 day ago)
+- [patsevanton/k8s-redis-valkey-lab](https://github.com/patsevanton/k8s-redis-valkey-lab) - Стенд для сравнения Redis и Valkey в Kubernetes: Helm-чарты и операторы, функциональность, отказоустойчивость, актуальность версий. (1 day ago)
+- [terraform-yacloud-modules/terraform-yandex-address](https://github.com/terraform-yacloud-modules/terraform-yandex-address) - Terraform module to manage address within the Yandex.Cloud (2 days ago)
+- [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) -  (2 days ago)
 
 ### 🔨 My recent Pull Requests
 
-- [docs: сравнение Mnemosyne с opencode-mem в TODO](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/54) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (today)
-- [feat: add cluster IAM members and multiple pod CIDR ranges](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes/pull/141) on [terraform-yacloud-modules/terraform-yandex-kubernetes](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes) (today)
-- [Add SAML authentication and GiB disk size support](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-opensearch/pull/98) on [terraform-yacloud-modules/terraform-yandex-mdb-opensearch](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-opensearch) (today)
+- [docs: сравнение Mnemosyne с opencode-mem в TODO](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/54) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (1 day ago)
+- [feat: add cluster IAM members and multiple pod CIDR ranges](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes/pull/141) on [terraform-yacloud-modules/terraform-yandex-kubernetes](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes) (1 day ago)
+- [Add SAML authentication and GiB disk size support](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-opensearch/pull/98) on [terraform-yacloud-modules/terraform-yandex-mdb-opensearch](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-opensearch) (1 day ago)
 
 ### ⭐ Recent Stars
 
-- [SpolzerMod/yamusic-rs](https://github.com/SpolzerMod/yamusic-rs) - Неофициальный клиент Яндекс Музыки на Rust. Интерфейс как у официального приложения - 65 МБ памяти вместо 850. (today)
-- [mnemosyne-oss/mnemosyne](https://github.com/mnemosyne-oss/mnemosyne) - Zero-cloud AI memory that works everywhere. SQLite-backed. One pure-Python dependency. (1 day ago)
-- [nosarthur/gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 从容管理多个git库 (1 day ago)
-- [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) - ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0) (2 days ago)
-- [sfewer-r7/CVE-2026-123007](https://github.com/sfewer-r7/CVE-2026-123007) - Proof-of-concept (PoC) scripts for CVE-2026-123007, an integer underflow in NGINX HTTP/2. (2 days ago)
+- [SpolzerMod/yamusic-rs](https://github.com/SpolzerMod/yamusic-rs) - Неофициальный клиент Яндекс Музыки на Rust. Интерфейс как у официального приложения - 65 МБ памяти вместо 850. (1 day ago)
+- [mnemosyne-oss/mnemosyne](https://github.com/mnemosyne-oss/mnemosyne) - Zero-cloud AI memory that works everywhere. SQLite-backed. One pure-Python dependency. (2 days ago)
+- [nosarthur/gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 从容管理多个git库 (2 days ago)
+- [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) - ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0) (3 days ago)
+- [sfewer-r7/CVE-2026-123007](https://github.com/sfewer-r7/CVE-2026-123007) - Proof-of-concept (PoC) scripts for CVE-2026-123007, an integer underflow in NGINX HTTP/2. (3 days ago)
 
 ### 👯 Check out some of my recent followers
 
