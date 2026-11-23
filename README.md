@@ -152,11 +152,11 @@ How a Go application behaves during a PostgreSQL master switchover in Yandex Clo
 
 ### 👷 Check out what I'm currently working on
 
-- [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) - Плейбук для автоматической настройки Ubuntu-ноутбука под DevOps: от чистого дистрибутива до рабочего окружения.  Resources (1 day ago)
-- [terraform-yacloud-modules/terraform-yandex-lockbox](https://github.com/terraform-yacloud-modules/terraform-yandex-lockbox) - Terraform module to manage Lockbox resources within the Yandex.Cloud. (1 day ago)
-- [patsevanton/k8s-redis-valkey-lab](https://github.com/patsevanton/k8s-redis-valkey-lab) - Стенд для сравнения Redis и Valkey в Kubernetes: Helm-чарты и операторы, функциональность, отказоустойчивость, актуальность версий. (1 day ago)
+- [terraform-yacloud-modules/terraform-yandex-iam](https://github.com/terraform-yacloud-modules/terraform-yandex-iam) - Terraform module to manage IAM resources within the Yandex.Cloud. (today)
 - [terraform-yacloud-modules/terraform-yandex-instance-group](https://github.com/terraform-yacloud-modules/terraform-yandex-instance-group) - Terraform module to manage Compute Instance Group resources within the Yandex.Cloud. (1 day ago)
-- [terraform-yacloud-modules/terraform-yandex-kms](https://github.com/terraform-yacloud-modules/terraform-yandex-kms) - Terraform module to manage KMS resources within the Yandex.Cloud. (1 day ago)
+- [terraform-yacloud-modules/terraform-yandex-api-gateway](https://github.com/terraform-yacloud-modules/terraform-yandex-api-gateway) - Terraform module to manage API Gateway resources within the Yandex.Cloud. (1 day ago)
+- [patsevanton/k8s-redis-valkey-lab](https://github.com/patsevanton/k8s-redis-valkey-lab) - Стенд для сравнения Redis и Valkey в Kubernetes: Helm-чарты и операторы, функциональность, отказоустойчивость, актуальность версий. (1 day ago)
+- [terraform-yacloud-modules/terraform-yandex-lockbox](https://github.com/terraform-yacloud-modules/terraform-yandex-lockbox) - Terraform module to manage Lockbox resources within the Yandex.Cloud. (1 day ago)
 
 ### 🔨 My recent Pull Requests
 
@@ -168,11 +168,11 @@ How a Go application behaves during a PostgreSQL master switchover in Yandex Clo
 
 ### ⭐ Recent Stars
 
+- [dohooo/helmor](https://github.com/dohooo/helmor) - Open-source local workbench for multi-agent software development. (today)
+- [dominikhei/cardamon](https://github.com/dominikhei/cardamon) - Cardamon is an audit tool for Prometheus that generates insight into unused metrics from Grafana and Prometheus. (today)
 - [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) - Before I go to bed, I tell my agents: good night, have fun (1 day ago)
 - [pgplex/pgschema](https://github.com/pgplex/pgschema) - Terraform-style, declarative Postgres schema migration. Agent friendly. (1 day ago)
 - [gaterook/gaterook](https://github.com/gaterook/gaterook) - GateRook: Local AI Connector Hub, Gateway &amp; Firewall for connecting AI to infrastructure with human-reviewed changes. (1 day ago)
-- [SpolzerMod/yamusic-rs](https://github.com/SpolzerMod/yamusic-rs) - Неофициальный клиент Яндекс Музыки на Rust. Интерфейс как у официального приложения - 65 МБ памяти вместо 850. (2 days ago)
-- [mnemosyne-oss/mnemosyne](https://github.com/mnemosyne-oss/mnemosyne) - Zero-cloud AI memory that works everywhere. SQLite-backed. One pure-Python dependency. (3 days ago)
 
 ### 👯 Check out some of my recent followers
 
