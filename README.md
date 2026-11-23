@@ -152,11 +152,11 @@ How a Go application behaves during a PostgreSQL master switchover in Yandex Clo
 
 ### 👷 Check out what I'm currently working on
 
+- [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) - Плейбук для автоматической настройки Ubuntu-ноутбука под DevOps: от чистого дистрибутива до рабочего окружения.  Resources (today)
 - [terraform-yacloud-modules/terraform-yandex-iam](https://github.com/terraform-yacloud-modules/terraform-yandex-iam) - Terraform module to manage IAM resources within the Yandex.Cloud. (today)
-- [terraform-yacloud-modules/terraform-yandex-instance-group](https://github.com/terraform-yacloud-modules/terraform-yandex-instance-group) - Terraform module to manage Compute Instance Group resources within the Yandex.Cloud. (1 day ago)
-- [terraform-yacloud-modules/terraform-yandex-api-gateway](https://github.com/terraform-yacloud-modules/terraform-yandex-api-gateway) - Terraform module to manage API Gateway resources within the Yandex.Cloud. (1 day ago)
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) - Helm charts for open source applications - ready to use for deployment on Kubernetes (today)
+- [terraform-yacloud-modules/terraform-yandex-kms](https://github.com/terraform-yacloud-modules/terraform-yandex-kms) - Terraform module to manage KMS resources within the Yandex.Cloud. (1 day ago)
 - [patsevanton/k8s-redis-valkey-lab](https://github.com/patsevanton/k8s-redis-valkey-lab) - Стенд для сравнения Redis и Valkey в Kubernetes: Helm-чарты и операторы, функциональность, отказоустойчивость, актуальность версий. (1 day ago)
-- [terraform-yacloud-modules/terraform-yandex-lockbox](https://github.com/terraform-yacloud-modules/terraform-yandex-lockbox) - Terraform module to manage Lockbox resources within the Yandex.Cloud. (1 day ago)
 
 ### 🔨 My recent Pull Requests
 
