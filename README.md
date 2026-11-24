@@ -152,27 +152,27 @@ How a Go application behaves during a PostgreSQL master switchover in Yandex Clo
 
 ### 👷 Check out what I'm currently working on
 
-- [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) - Плейбук для автоматической настройки Ubuntu-ноутбука под DevOps: от чистого дистрибутива до рабочего окружения.  Resources (1 day ago)
+- [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) - Плейбук для автоматической настройки Ubuntu-ноутбука под DevOps: от чистого дистрибутива до рабочего окружения.  Resources (today)
 - [terraform-yacloud-modules/terraform-yandex-iam](https://github.com/terraform-yacloud-modules/terraform-yandex-iam) - Terraform module to manage IAM resources within the Yandex.Cloud. (1 day ago)
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) - Helm charts for open source applications - ready to use for deployment on Kubernetes (1 day ago)
-- [terraform-yacloud-modules/terraform-yandex-kms](https://github.com/terraform-yacloud-modules/terraform-yandex-kms) - Terraform module to manage KMS resources within the Yandex.Cloud. (2 days ago)
 - [patsevanton/k8s-redis-valkey-lab](https://github.com/patsevanton/k8s-redis-valkey-lab) - Стенд для сравнения Redis и Valkey в Kubernetes: Helm-чарты и операторы, функциональность, отказоустойчивость, актуальность версий. (2 days ago)
+- [terraform-yacloud-modules/terraform-yandex-lockbox](https://github.com/terraform-yacloud-modules/terraform-yandex-lockbox) - Terraform module to manage Lockbox resources within the Yandex.Cloud. (2 days ago)
 
 ### 🔨 My recent Pull Requests
 
+- [feat: добавление cilium CLI в роль kubernetes](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/60) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (today)
+- [feat: добавление bgpq4, grepcidr и офлайн-базы ASN в роль network](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/59) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (today)
+- [feat: добавление ipinfo CLI в роль network](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/58) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (today)
 - [feat: добавление Orca и Claude-BugHunter в роль ai_tools](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/57) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (2 days ago)
 - [fix: обход E2BIG в carapace completion вырезанием CARAPACE_SHELL_FUNCTIONS](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/56) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (2 days ago)
-- [fix: перевод topologySpreadConstraints на DoNotSchedule и разнесение мастера и реплик](https://github.com/patsevanton/k8s-redis-valkey-lab/pull/14) on [patsevanton/k8s-redis-valkey-lab](https://github.com/patsevanton/k8s-redis-valkey-lab) (2 days ago)
-- [feat: upstream nosize у guardrails и loopback-защита имён .lan](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/55) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (2 days ago)
-- [docs: сравнение Mnemosyne с opencode-mem в TODO](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/54) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (3 days ago)
 
 ### ⭐ Recent Stars
 
+- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari. (today)
+- [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi) - Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints. (today)
 - [lanes-sh/app](https://github.com/lanes-sh/app) - Run many CLI (Coding) Agents in parallel lanes: issues, worktrees, sessions, and loops on one board. The agentic development environment. (today)
 - [dohooo/helmor](https://github.com/dohooo/helmor) - Open-source local workbench for multi-agent software development. (1 day ago)
 - [dominikhei/cardamon](https://github.com/dominikhei/cardamon) - Cardamon is an audit tool for Prometheus that generates insight into unused metrics from Grafana and Prometheus. (1 day ago)
-- [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) - Before I go to bed, I tell my agents: good night, have fun (2 days ago)
-- [pgplex/pgschema](https://github.com/pgplex/pgschema) - Terraform-style, declarative Postgres schema migration. Agent friendly. (2 days ago)
 
 ### 👯 Check out some of my recent followers
 
