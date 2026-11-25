@@ -168,11 +168,11 @@ How a Go application behaves during a PostgreSQL master switchover in Yandex Clo
 
 ### ⭐ Recent Stars
 
+- [knopki/memlens](https://github.com/knopki/memlens) - Long-term memory for an agent. The agent starts each session with a map of what it already knows. One SQLite file holds the notes, and a tree of summaries stands above them. (today)
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (today)
 - [dataseeek/MagesticAI](https://github.com/dataseeek/MagesticAI) - Web Cloud-based AI task management and agent orchestration platform (today)
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari. (1 day ago)
 - [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi) - Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints. (1 day ago)
-- [lanes-sh/app](https://github.com/lanes-sh/app) - Run many CLI (Coding) Agents in parallel lanes: issues, worktrees, sessions, and loops on one board. The agentic development environment. (1 day ago)
-- [dohooo/helmor](https://github.com/dohooo/helmor) - Open-source local workbench for multi-agent software development. (2 days ago)
 
 ### 👯 Check out some of my recent followers
 
