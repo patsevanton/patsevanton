@@ -160,11 +160,11 @@ How a Go application behaves during a PostgreSQL master switchover in Yandex Clo
 
 ### 🔨 My recent Pull Requests
 
+- [feat: добавление asnmap, interview-me и снятие grill-скиллов](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/62) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (today)
 - [feat: добавление curl-impersonate и curl_cffi в роль network](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/61) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (today)
 - [feat: добавление cilium CLI в роль kubernetes](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/60) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (2 days ago)
 - [feat: добавление bgpq4, grepcidr и офлайн-базы ASN в роль network](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/59) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (2 days ago)
 - [feat: добавление ipinfo CLI в роль network](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/58) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (2 days ago)
-- [feat: добавление Orca и Claude-BugHunter в роль ai_tools](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/57) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (4 days ago)
 
 ### ⭐ Recent Stars
 
