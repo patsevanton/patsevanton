@@ -152,27 +152,27 @@ How a Go application behaves during a PostgreSQL master switchover in Yandex Clo
 
 ### 👷 Check out what I'm currently working on
 
-- [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) - Плейбук для автоматической настройки Ubuntu-ноутбука под DevOps: от чистого дистрибутива до рабочего окружения.  Resources (2 days ago)
+- [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) - Плейбук для автоматической настройки Ubuntu-ноутбука под DevOps: от чистого дистрибутива до рабочего окружения.  Resources (today)
 - [terraform-yacloud-modules/terraform-yandex-iam](https://github.com/terraform-yacloud-modules/terraform-yandex-iam) - Terraform module to manage IAM resources within the Yandex.Cloud. (3 days ago)
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) - Helm charts for open source applications - ready to use for deployment on Kubernetes (3 days ago)
-- [patsevanton/k8s-redis-valkey-lab](https://github.com/patsevanton/k8s-redis-valkey-lab) - Стенд для сравнения Redis и Valkey в Kubernetes: Helm-чарты и операторы, функциональность, отказоустойчивость, актуальность версий. (4 days ago)
-- [terraform-yacloud-modules/terraform-yandex-lockbox](https://github.com/terraform-yacloud-modules/terraform-yandex-lockbox) - Terraform module to manage Lockbox resources within the Yandex.Cloud. (4 days ago)
+- [terraform-yacloud-modules/terraform-yandex-instance-group](https://github.com/terraform-yacloud-modules/terraform-yandex-instance-group) - Terraform module to manage Compute Instance Group resources within the Yandex.Cloud. (4 days ago)
+- [terraform-yacloud-modules/terraform-yandex-kms](https://github.com/terraform-yacloud-modules/terraform-yandex-kms) - Terraform module to manage KMS resources within the Yandex.Cloud. (4 days ago)
 
 ### 🔨 My recent Pull Requests
 
+- [feat: добавление curl-impersonate и curl_cffi в роль network](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/61) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (today)
 - [feat: добавление cilium CLI в роль kubernetes](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/60) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (2 days ago)
 - [feat: добавление bgpq4, grepcidr и офлайн-базы ASN в роль network](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/59) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (2 days ago)
 - [feat: добавление ipinfo CLI в роль network](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/58) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (2 days ago)
 - [feat: добавление Orca и Claude-BugHunter в роль ai_tools](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/57) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (4 days ago)
-- [fix: обход E2BIG в carapace completion вырезанием CARAPACE_SHELL_FUNCTIONS](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/56) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (4 days ago)
 
 ### ⭐ Recent Stars
 
+- [getsentry/toolkit](https://github.com/getsentry/toolkit) - Agentic tooling for Sentry (today)
+- [Avaneesh-Inamdar/Stream-Tube-Desktop](https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop) - Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in (today)
 - [vektort13/Detect.Expert](https://github.com/vektort13/Detect.Expert) - Detect.Expert — Fingerprint Protection &#43; Forensics &amp; Antidetect (today)
 - [knopki/memlens](https://github.com/knopki/memlens) - Long-term memory for an agent. The agent starts each session with a map of what it already knows. One SQLite file holds the notes, and a tree of summaries stands above them. (1 day ago)
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (1 day ago)
-- [dataseeek/MagesticAI](https://github.com/dataseeek/MagesticAI) - Web Cloud-based AI task management and agent orchestration platform (1 day ago)
-- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari. (2 days ago)
 
 ### 👯 Check out some of my recent followers
 
