@@ -153,26 +153,26 @@ How a Go application behaves during a PostgreSQL master switchover in Yandex Clo
 ### 👷 Check out what I'm currently working on
 
 - [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) - Плейбук для автоматической настройки Ubuntu-ноутбука под DevOps: от чистого дистрибутива до рабочего окружения.  Resources (today)
-- [terraform-yacloud-modules/terraform-yandex-iam](https://github.com/terraform-yacloud-modules/terraform-yandex-iam) - Terraform module to manage IAM resources within the Yandex.Cloud. (3 days ago)
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) - Helm charts for open source applications - ready to use for deployment on Kubernetes (3 days ago)
-- [terraform-yacloud-modules/terraform-yandex-instance-group](https://github.com/terraform-yacloud-modules/terraform-yandex-instance-group) - Terraform module to manage Compute Instance Group resources within the Yandex.Cloud. (4 days ago)
-- [terraform-yacloud-modules/terraform-yandex-kms](https://github.com/terraform-yacloud-modules/terraform-yandex-kms) - Terraform module to manage KMS resources within the Yandex.Cloud. (4 days ago)
+- [terraform-yacloud-modules/terraform-yandex-iam](https://github.com/terraform-yacloud-modules/terraform-yandex-iam) - Terraform module to manage IAM resources within the Yandex.Cloud. (4 days ago)
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) - Helm charts for open source applications - ready to use for deployment on Kubernetes (4 days ago)
+- [terraform-yacloud-modules/terraform-yandex-instance-group](https://github.com/terraform-yacloud-modules/terraform-yandex-instance-group) - Terraform module to manage Compute Instance Group resources within the Yandex.Cloud. (5 days ago)
+- [terraform-yacloud-modules/terraform-yandex-kms](https://github.com/terraform-yacloud-modules/terraform-yandex-kms) - Terraform module to manage KMS resources within the Yandex.Cloud. (5 days ago)
 
 ### 🔨 My recent Pull Requests
 
-- [feat: добавление asnmap, interview-me и снятие grill-скиллов](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/62) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (today)
-- [feat: добавление curl-impersonate и curl_cffi в роль network](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/61) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (today)
-- [feat: добавление cilium CLI в роль kubernetes](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/60) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (2 days ago)
-- [feat: добавление bgpq4, grepcidr и офлайн-базы ASN в роль network](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/59) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (2 days ago)
-- [feat: добавление ipinfo CLI в роль network](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/58) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (2 days ago)
+- [feat: переключение upstream guardrails на polza](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/63) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (today)
+- [feat: добавление asnmap, interview-me и снятие grill-скиллов](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/62) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (1 day ago)
+- [feat: добавление curl-impersonate и curl_cffi в роль network](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/61) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (1 day ago)
+- [feat: добавление cilium CLI в роль kubernetes](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/60) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (3 days ago)
+- [feat: добавление bgpq4, grepcidr и офлайн-базы ASN в роль network](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/59) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (3 days ago)
 
 ### ⭐ Recent Stars
 
-- [getsentry/toolkit](https://github.com/getsentry/toolkit) - Agentic tooling for Sentry (today)
-- [Avaneesh-Inamdar/Stream-Tube-Desktop](https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop) - Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in (today)
-- [vektort13/Detect.Expert](https://github.com/vektort13/Detect.Expert) - Detect.Expert — Fingerprint Protection &#43; Forensics &amp; Antidetect (today)
-- [knopki/memlens](https://github.com/knopki/memlens) - Long-term memory for an agent. The agent starts each session with a map of what it already knows. One SQLite file holds the notes, and a tree of summaries stands above them. (1 day ago)
-- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (1 day ago)
+- [getsentry/toolkit](https://github.com/getsentry/toolkit) - Agentic tooling for Sentry (1 day ago)
+- [Avaneesh-Inamdar/Stream-Tube-Desktop](https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop) - Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in (1 day ago)
+- [vektort13/Detect.Expert](https://github.com/vektort13/Detect.Expert) - Detect.Expert — Fingerprint Protection &#43; Forensics &amp; Antidetect (1 day ago)
+- [knopki/memlens](https://github.com/knopki/memlens) - Long-term memory for an agent. The agent starts each session with a map of what it already knows. One SQLite file holds the notes, and a tree of summaries stands above them. (2 days ago)
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (2 days ago)
 
 ### 👯 Check out some of my recent followers
 
