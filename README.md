@@ -160,11 +160,11 @@ How a Go application behaves during a PostgreSQL master switchover in Yandex Clo
 
 ### 🔨 My recent Pull Requests
 
+- [feat: добавление httpx, dnsx, naabu и dalfox в recon-цепочку](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/66) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (today)
 - [feat: установка CLI cbh из PyPI и правка числа навыков Claude-BugHunter](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/65) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (today)
 - [docs: правило про ripgrep и ast-grep в AGENTS.md](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/64) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (today)
 - [feat: переключение upstream guardrails на polza](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/63) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (today)
 - [feat: добавление asnmap, interview-me и снятие grill-скиллов](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/62) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (1 day ago)
-- [feat: добавление curl-impersonate и curl_cffi в роль network](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/61) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (1 day ago)
 
 ### ⭐ Recent Stars
 
