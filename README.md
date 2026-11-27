@@ -160,24 +160,24 @@ How a Go application behaves during a PostgreSQL master switchover in Yandex Clo
 
 ### 🔨 My recent Pull Requests
 
+- [feat: установка CLI cbh из PyPI и правка числа навыков Claude-BugHunter](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/65) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (today)
+- [docs: правило про ripgrep и ast-grep в AGENTS.md](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/64) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (today)
 - [feat: переключение upstream guardrails на polza](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/63) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (today)
 - [feat: добавление asnmap, interview-me и снятие grill-скиллов](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/62) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (1 day ago)
 - [feat: добавление curl-impersonate и curl_cffi в роль network](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/61) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (1 day ago)
-- [feat: добавление cilium CLI в роль kubernetes](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/60) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (3 days ago)
-- [feat: добавление bgpq4, grepcidr и офлайн-базы ASN в роль network](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/59) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (3 days ago)
 
 ### ⭐ Recent Stars
 
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. (today)
+- [miladbeigi/vaultui](https://github.com/miladbeigi/vaultui) - A k9s-inspired terminal UI for HashiCorp Vault — browse secrets, policies, auth methods, PKI, Transit, and Identity engines without leaving your terminal. (today)
 - [getsentry/toolkit](https://github.com/getsentry/toolkit) - Agentic tooling for Sentry (1 day ago)
 - [Avaneesh-Inamdar/Stream-Tube-Desktop](https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop) - Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in (1 day ago)
 - [vektort13/Detect.Expert](https://github.com/vektort13/Detect.Expert) - Detect.Expert — Fingerprint Protection &#43; Forensics &amp; Antidetect (1 day ago)
-- [knopki/memlens](https://github.com/knopki/memlens) - Long-term memory for an agent. The agent starts each session with a map of what it already knows. One SQLite file holds the notes, and a tree of summaries stands above them. (2 days ago)
-- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (2 days ago)
 
 ### 👯 Check out some of my recent followers
 
+- [vadimisakanov](https://github.com/vadimisakanov)
 - [notabiguser](https://github.com/notabiguser)
 - [soul-abhi](https://github.com/soul-abhi)
 - [a4hmad1](https://github.com/a4hmad1)
 - [sebcrown](https://github.com/sebcrown)
-- [Beefiest3Swoosh4](https://github.com/Beefiest3Swoosh4)
