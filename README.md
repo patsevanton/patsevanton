@@ -153,26 +153,26 @@ How a Go application behaves during a PostgreSQL master switchover in Yandex Clo
 ### 👷 Check out what I'm currently working on
 
 - [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) - Плейбук для автоматической настройки Ubuntu-ноутбука под DevOps: от чистого дистрибутива до рабочего окружения.  Resources (today)
-- [terraform-yacloud-modules/terraform-yandex-iam](https://github.com/terraform-yacloud-modules/terraform-yandex-iam) - Terraform module to manage IAM resources within the Yandex.Cloud. (4 days ago)
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) - Helm charts for open source applications - ready to use for deployment on Kubernetes (4 days ago)
-- [terraform-yacloud-modules/terraform-yandex-instance-group](https://github.com/terraform-yacloud-modules/terraform-yandex-instance-group) - Terraform module to manage Compute Instance Group resources within the Yandex.Cloud. (5 days ago)
-- [terraform-yacloud-modules/terraform-yandex-kms](https://github.com/terraform-yacloud-modules/terraform-yandex-kms) - Terraform module to manage KMS resources within the Yandex.Cloud. (5 days ago)
+- [terraform-yacloud-modules/terraform-yandex-iam](https://github.com/terraform-yacloud-modules/terraform-yandex-iam) - Terraform module to manage IAM resources within the Yandex.Cloud. (5 days ago)
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) - Helm charts for open source applications - ready to use for deployment on Kubernetes (5 days ago)
+- [terraform-yacloud-modules/terraform-yandex-instance-group](https://github.com/terraform-yacloud-modules/terraform-yandex-instance-group) - Terraform module to manage Compute Instance Group resources within the Yandex.Cloud. (6 days ago)
+- [terraform-yacloud-modules/terraform-yandex-kms](https://github.com/terraform-yacloud-modules/terraform-yandex-kms) - Terraform module to manage KMS resources within the Yandex.Cloud. (6 days ago)
 
 ### 🔨 My recent Pull Requests
 
-- [feat: добавление httpx, dnsx, naabu и dalfox в recon-цепочку](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/66) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (today)
-- [feat: установка CLI cbh из PyPI и правка числа навыков Claude-BugHunter](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/65) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (today)
-- [docs: правило про ripgrep и ast-grep в AGENTS.md](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/64) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (today)
-- [feat: переключение upstream guardrails на polza](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/63) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (today)
-- [feat: добавление asnmap, interview-me и снятие grill-скиллов](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/62) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (1 day ago)
+- [docs: обновление статусов issue и подсказки про PR](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/70) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (today)
+- [docs: отказ от тестов ноутбука, скриншотов и OCR в not-install](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/69) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (today)
+- [feat: добавление OOB-, JWT- и GraphQL-утилит в плейбук](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/68) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (today)
+- [feat: sentry CLI со сверкой sha256 и скилл sentry-cli](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/67) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (today)
+- [feat: добавление httpx, dnsx, naabu и dalfox в recon-цепочку](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation/pull/66) on [patsevanton/ansible-for-ubuntu-devops-workstation](https://github.com/patsevanton/ansible-for-ubuntu-devops-workstation) (1 day ago)
 
 ### ⭐ Recent Stars
 
-- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. (today)
-- [miladbeigi/vaultui](https://github.com/miladbeigi/vaultui) - A k9s-inspired terminal UI for HashiCorp Vault — browse secrets, policies, auth methods, PKI, Transit, and Identity engines without leaving your terminal. (today)
-- [getsentry/toolkit](https://github.com/getsentry/toolkit) - Agentic tooling for Sentry (1 day ago)
-- [Avaneesh-Inamdar/Stream-Tube-Desktop](https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop) - Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in (1 day ago)
-- [vektort13/Detect.Expert](https://github.com/vektort13/Detect.Expert) - Detect.Expert — Fingerprint Protection &#43; Forensics &amp; Antidetect (1 day ago)
+- [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize (today)
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. (1 day ago)
+- [miladbeigi/vaultui](https://github.com/miladbeigi/vaultui) - A k9s-inspired terminal UI for HashiCorp Vault — browse secrets, policies, auth methods, PKI, Transit, and Identity engines without leaving your terminal. (1 day ago)
+- [getsentry/toolkit](https://github.com/getsentry/toolkit) - Agentic tooling for Sentry (2 days ago)
+- [Avaneesh-Inamdar/Stream-Tube-Desktop](https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop) - Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in (2 days ago)
 
 ### 👯 Check out some of my recent followers
 
